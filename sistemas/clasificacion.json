@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Qué son los sistemas informáticos de uso general?",
+        "options": [
+            "Sistemas diseñados para tareas específicas como control de tráfico",
+            "Sistemas que solo permiten el uso de un tipo de aplicación",
+            "Sistemas con una amplia gama de funciones y utilidades",
+            "Sistemas portátiles de baja capacidad"
+        ],
+        "correctAnswer": "Sistemas con una amplia gama de funciones y utilidades"
+    },
+    {
+        "question": "¿Cuál es un ejemplo de un sistema informático de uso específico?",
+        "options": [
+            "Un ordenador personal",
+            "Un sistema de control de tráfico",
+            "Un teléfono móvil",
+            "Un servidor general"
+        ],
+        "correctAnswer": "Un sistema de control de tráfico"
+    },
+    {
+        "question": "¿Qué caracteriza a un sistema informático de uso específico?",
+        "options": [
+            "Se utiliza para múltiples aplicaciones",
+            "Se utiliza para una tarea concreta",
+            "Tiene capacidad para varios usuarios simultáneamente",
+            "Es un sistema diseñado para el entretenimiento"
+        ],
+        "correctAnswer": "Se utiliza para una tarea concreta"
+    },
+    {
+        "question": "¿Qué son los superordenadores?",
+        "options": [
+            "Equipos para uso doméstico",
+            "Equipos con alta capacidad de procesamiento para tareas científicas y militares",
+            "Ordenadores de una sola placa",
+            "Equipos portátiles de alta gama"
+        ],
+        "correctAnswer": "Equipos con alta capacidad de procesamiento para tareas científicas y militares"
+    },
+    {
+        "question": "¿En qué unidad se mide el rendimiento de un superordenador?",
+        "options": [
+            "Bytes",
+            "Megaherzios",
+            "Petaflops",
+            "Terabytes"
+        ],
+        "correctAnswer": "Petaflops"
+    },
+    {
+        "question": "¿Cuál es una característica de los macroordenadores o mainframes?",
+        "options": [
+            "Son de tamaño pequeño y con baja capacidad de almacenamiento",
+            "Ofrecen servicio a múltiples usuarios simultáneamente",
+            "Están diseñados para tareas específicas como control de tráfico",
+            "Solo se utilizan en ámbitos académicos"
+        ],
+        "correctAnswer": "Ofrecen servicio a múltiples usuarios simultáneamente"
+    },
+    {
+        "question": "¿Por qué los mainframes requieren una habitación especial?",
+        "options": [
+            "Para protegerlos del ruido",
+            "Para mantener condiciones óptimas de temperatura y humedad",
+            "Para evitar el acceso no autorizado",
+            "Para mejorar su rendimiento gráfico"
+        ],
+        "correctAnswer": "Para mantener condiciones óptimas de temperatura y humedad"
+    },
+    {
+        "question": "¿Cuál es el uso principal de los servidores y estaciones de trabajo (workstations)?",
+        "options": [
+            "Control de tráfico",
+            "Proveer servicios a otros usuarios y equipos en red",
+            "Aplicaciones de entretenimiento",
+            "Uso personal y doméstico"
+        ],
+        "correctAnswer": "Proveer servicios a otros usuarios y equipos en red"
+    },
+    {
+        "question": "¿Qué características deben tener los servidores y estaciones de trabajo?",
+        "options": [
+            "Alta capacidad de procesamiento para atender múltiples usuarios",
+            "Bajo consumo de energía",
+            "Funciones limitadas a tareas específicas",
+            "Solo acceso local"
+        ],
+        "correctAnswer": "Alta capacidad de procesamiento para atender múltiples usuarios"
+    },
+    {
+        "question": "¿Cuáles son ejemplos de ordenadores personales?",
+        "options": [
+            "Superordenadores y mainframes",
+            "Portátiles y sobremesas",
+            "Thin clients y servidores",
+            "Macroordenadores y estaciones de trabajo"
+        ],
+        "correctAnswer": "Portátiles y sobremesas"
+    },
+    {
+        "question": "¿Qué es un ordenador portátil?",
+        "options": [
+            "Un ordenador de gran tamaño que requiere una habitación especial",
+            "Un ordenador pequeño y portátil diseñado para conectarse a un servidor",
+            "Un ordenador que se puede transportar fácilmente",
+            "Un dispositivo de almacenamiento"
+        ],
+        "correctAnswer": "Un ordenador que se puede transportar fácilmente"
+    },
+    {
+        "question": "¿Qué tipo de dispositivo es un smartphone?",
+        "options": [
+            "Un sistema informático de uso específico",
+            "Un ordenador de una sola placa",
+            "Un ordenador personal utilizado para el ámbito doméstico y profesional",
+            "Un sistema de control de tráfico"
+        ],
+        "correctAnswer": "Un ordenador personal utilizado para el ámbito doméstico y profesional"
+    },
+    {
+        "question": "¿Qué es un ordenador de una sola placa (Single Board Computer)?",
+        "options": [
+            "Un ordenador de tamaño grande utilizado en data centers",
+            "Un ordenador completo en un solo circuito de tamaño reducido",
+            "Un dispositivo de almacenamiento masivo",
+            "Un sistema de refrigeración para ordenadores"
+        ],
+        "correctAnswer": "Un ordenador completo en un solo circuito de tamaño reducido"
+    },
+    {
+        "question": "¿Cuál es un ejemplo de un ordenador de una sola placa?",
+        "options": [
+            "Mainframe",
+            "Superordenador",
+            "Raspberry Pi",
+            "Servidor de alta capacidad"
+        ],
+        "correctAnswer": "Raspberry Pi"
+    },
+    {
+        "question": "¿Qué son los clientes ligeros (Thin Clients)?",
+        "options": [
+            "Ordenadores que no necesitan conectarse a un servidor",
+            "Ordenadores que tienen alta capacidad de almacenamiento",
+            "Ordenadores con poca capacidad que se conectan a un servidor para procesar",
+            "Ordenadores portátiles con procesadores avanzados"
+        ],
+        "correctAnswer": "Ordenadores con poca capacidad que se conectan a un servidor para procesar"
+    },
+    {
+        "question": "¿Cuál es la función principal de los clientes ligeros?",
+        "options": [
+            "Realizar cálculos avanzados",
+            "Almacenar grandes cantidades de datos",
+            "Conectarse a un servidor para aprovechar su capacidad de procesamiento",
+            "Controlar tráfico aéreo"
+        ],
+        "correctAnswer": "Conectarse a un servidor para aprovechar su capacidad de procesamiento"
+    },
+    {
+        "question": "¿Qué tipo de sistema informático se utiliza principalmente en ámbitos científicos y militares?",
+        "options": [
+            "Superordenadores",
+            "Ordenadores de sobremesa",
+            "Clientes ligeros",
+            "Smartphones"
+        ],
+        "correctAnswer": "Superordenadores"
+    },
+    {
+        "question": "¿Cuál es una característica común de los superordenadores?",
+        "options": [
+            "Están diseñados para el uso doméstico",
+            "Tienen bajo consumo de energía",
+            "Alto rendimiento y capacidad de procesamiento",
+            "Se usan principalmente para redes sociales"
+        ],
+        "correctAnswer": "Alto rendimiento y capacidad de procesamiento"
+    },
+    {
+        "question": "¿Para qué suelen estar destinados los mainframes?",
+        "options": [
+            "Juegos y entretenimiento",
+            "Soporte a múltiples usuarios y procesamiento de grandes volúmenes de datos",
+            "Control de tráfico en tiempo real",
+            "Procesamiento gráfico avanzado"
+        ],
+        "correctAnswer": "Soporte a múltiples usuarios y procesamiento de grandes volúmenes de datos"
+    },
+    {
+        "question": "¿Qué ventaja ofrecen los ordenadores portátiles frente a los de sobremesa?",
+        "options": [
+            "Mayor capacidad de almacenamiento",
+            "Portabilidad y facilidad de transporte",
+            "Mayor rendimiento en operaciones complejas",
+            "Son menos costosos de mantener"
+        ],
+        "correctAnswer": "Portabilidad y facilidad de transporte"
+    },
+    {
+        "question": "¿Cuál de los siguientes dispositivos es un ejemplo de cliente ligero?",
+        "options": [
+            "Superordenador",
+            "Mainframe",
+            "Thin client",
+            "Servidor de alta capacidad"
+        ],
+        "correctAnswer": "Thin client"
+    },
+    {
+        "question": "¿Qué tipo de ordenadores se encuentran entre los ordenadores portátiles y las tablets?",
+        "options": [
+            "Smartphones",
+            "Convertibles 2 en 1",
+            "Clientes ligeros",
+            "Mainframes"
+        ],
+        "correctAnswer": "Convertibles 2 en 1"
+    }
+]

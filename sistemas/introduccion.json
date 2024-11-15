@@ -1,0 +1,92 @@
+[
+    {
+        "question": "¿Qué es un sistema informático?",
+        "options": [
+            "Un conjunto de elementos necesarios para tratar y procesar la información",
+            "Un conjunto de programas de software",
+            "Una serie de componentes físicos como el hardware",
+            "Solo el ordenador y sus periféricos"
+        ],
+        "correctAnswer": "Un conjunto de elementos necesarios para tratar y procesar la información"
+    },
+    {
+        "question": "¿Cuál es el elemento central de los sistemas informáticos?",
+        "options": [
+            "La red de comunicación",
+            "El software",
+            "El hardware",
+            "El ordenador"
+        ],
+        "correctAnswer": "El ordenador"
+    },
+    {
+        "question": "¿Qué compone un sistema informático?",
+        "options": [
+            "Solo hardware y software",
+            "Hardware, software, firmware y humano",
+            "Software y periféricos",
+            "Dispositivos de almacenamiento y red"
+        ],
+        "correctAnswer": "Hardware, software, firmware y humano"
+    },
+    {
+        "question": "¿Cuál es la parte física del sistema informático?",
+        "options": [
+            "Software",
+            "Hardware",
+            "Firmware",
+            "Humano"
+        ],
+        "correctAnswer": "Hardware"
+    },
+    {
+        "question": "¿Qué es el hardware?",
+        "options": [
+            "La parte lógica del ordenador",
+            "La parte física del ordenador, incluyendo componentes electrónicos y mecánicos",
+            "El software integrado en un componente de hardware",
+            "La persona que opera el sistema"
+        ],
+        "correctAnswer": "La parte física del ordenador, incluyendo componentes electrónicos y mecánicos"
+    },
+    {
+        "question": "¿Qué es el software en un sistema informático?",
+        "options": [
+            "La parte física del sistema",
+            "El conjunto de elementos físicos y mecánicos",
+            "La parte lógica, incluyendo sistemas operativos y programas",
+            "La persona que usa el sistema"
+        ],
+        "correctAnswer": "La parte lógica, incluyendo sistemas operativos y programas"
+    },
+    {
+        "question": "¿Qué es el firmware?",
+        "options": [
+            "El software que está integrado en un componente hardware",
+            "El sistema operativo del ordenador",
+            "Un tipo de hardware",
+            "Una parte lógica que no interactúa con el hardware"
+        ],
+        "correctAnswer": "El software que está integrado en un componente hardware"
+    },
+    {
+        "question": "¿Dónde se encuentra normalmente el firmware?",
+        "options": [
+            "Dentro del sistema operativo",
+            "En un componente de hardware, como el BIOS",
+            "En el software de aplicaciones",
+            "En los periféricos de almacenamiento"
+        ],
+        "correctAnswer": "En un componente de hardware, como el BIOS"
+    },
+    {
+        "question": "¿Quiénes forman parte del sistema informático además del hardware, software y firmware?",
+        "options": [
+            "El usuario o humano",
+            "Solo dispositivos periféricos",
+            "Solo el hardware",
+            "Solo el software"
+        ],
+        "correctAnswer": "El usuario o humano"
+    }
+]

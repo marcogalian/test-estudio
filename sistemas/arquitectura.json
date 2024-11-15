@@ -1,0 +1,292 @@
+[
+    {
+        "question": "¿Cuál es uno de los antecedentes de los modelos de arquitectura de computadoras?",
+        "options": [
+            "La arquitectura de Von Neumann",
+            "La máquina de Turing",
+            "La arquitectura de Harvard",
+            "El procesador UCP"
+        ],
+        "correctAnswer": "La máquina de Turing"
+    },
+    {
+        "question": "¿Qué característica define la arquitectura de Von Neumann?",
+        "options": [
+            "Separa la memoria de datos y la memoria de instrucciones",
+            "Combina la memoria de datos y de instrucciones",
+            "Tiene buses de control separados",
+            "Usa procesadores dedicados a la entrada y salida"
+        ],
+        "correctAnswer": "Combina la memoria de datos y de instrucciones"
+    },
+    {
+        "question": "¿Cuál de las siguientes es una característica de la arquitectura de Harvard?",
+        "options": [
+            "Utiliza buses unificados para datos e instrucciones",
+            "Memoria de instrucciones y memoria de datos están separadas",
+            "No permite la programación de bajo nivel",
+            "No soporta operaciones de control de flujo"
+        ],
+        "correctAnswer": "Memoria de instrucciones y memoria de datos están separadas"
+    },
+    {
+        "question": "¿Qué componente realiza las operaciones aritméticas y lógicas en un ordenador?",
+        "options": [
+            "Unidad de Control (UC)",
+            "Unidad aritmético-lógica (ALU)",
+            "Memoria principal",
+            "Bus de datos"
+        ],
+        "correctAnswer": "Unidad aritmético-lógica (ALU)"
+    },
+    {
+        "question": "¿Cuál es la función principal de la Unidad de Control (UC)?",
+        "options": [
+            "Almacenar los datos temporales",
+            "Realizar cálculos aritméticos",
+            "Enviar señales a otros componentes para coordinar su funcionamiento",
+            "Ejecutar instrucciones de usuario directamente"
+        ],
+        "correctAnswer": "Enviar señales a otros componentes para coordinar su funcionamiento"
+    },
+    {
+        "question": "¿Cuál de los siguientes registros contiene la instrucción que está siendo ejecutada?",
+        "options": [
+            "Registro de instrucción (RI)",
+            "Registro acumulador (AC)",
+            "Registro de estado (RE)",
+            "Registro de datos (RD)"
+        ],
+        "correctAnswer": "Registro de instrucción (RI)"
+    },
+    {
+        "question": "¿Qué almacena el Registro acumulador (AC)?",
+        "options": [
+            "La dirección de la siguiente instrucción a ejecutar",
+            "El resultado de la última operación realizada",
+            "El código de la operación actual",
+            "El estado actual del sistema"
+        ],
+        "correctAnswer": "El resultado de la última operación realizada"
+    },
+    {
+        "question": "¿Qué función cumple el Registro de Estado (RE)?",
+        "options": [
+            "Almacena la dirección de la próxima instrucción",
+            "Controla las señales de reloj",
+            "Almacena las condiciones de la última operación realizada",
+            "Regula la comunicación entre la CPU y la memoria"
+        ],
+        "correctAnswer": "Almacena las condiciones de la última operación realizada"
+    },
+    {
+        "question": "¿Qué componente genera las señales de sincronización para el sistema?",
+        "options": [
+            "Decodificador",
+            "Generador de señales o secuenciador",
+            "Reloj",
+            "Registro de instrucciones"
+        ],
+        "correctAnswer": "Reloj"
+    },
+    {
+        "question": "¿Qué función tiene el Bus de datos en un sistema informático?",
+        "options": [
+            "Transporta las instrucciones ejecutadas",
+            "Lleva la dirección de memoria a acceder",
+            "Transporta datos y las instrucciones entre los componentes",
+            "Controla las señales del reloj"
+        ],
+        "correctAnswer": "Transporta datos y las instrucciones entre los componentes"
+    },
+    {
+        "question": "¿Qué diferencia al Bus de direcciones del Bus de datos?",
+        "options": [
+            "Lleva datos e instrucciones entre componentes",
+            "Transporta señales de control",
+            "Indica la ubicación de memoria donde se va a leer o escribir",
+            "Transfiere los resultados de las operaciones"
+        ],
+        "correctAnswer": "Indica la ubicación de memoria donde se va a leer o escribir"
+    },
+    {
+        "question": "¿Cuál es la función de los periféricos en un sistema informático?",
+        "options": [
+            "Almacenar datos temporalmente",
+            "Conectar la CPU con la memoria interna",
+            "Permitir la comunicación de entrada y salida con el ordenador",
+            "Ejecutar cálculos lógicos complejos"
+        ],
+        "correctAnswer": "Permitir la comunicación de entrada y salida con el ordenador"
+    },
+    {
+        "question": "¿Qué tipo de memoria es la más rápida pero tiene menor capacidad?",
+        "options": [
+            "Memoria secundaria",
+            "Memoria caché",
+            "Memoria principal",
+            "Memoria auxiliar"
+        ],
+        "correctAnswer": "Memoria caché"
+    },
+    {
+        "question": "¿Qué tipo de memoria es conocida como RAM?",
+        "options": [
+            "Memoria secundaria",
+            "Memoria principal",
+            "Memoria caché",
+            "Memoria auxiliar"
+        ],
+        "correctAnswer": "Memoria principal"
+    },
+    {
+        "question": "¿Qué tipo de memoria es la más adecuada para almacenamiento permanente?",
+        "options": [
+            "Memoria caché",
+            "Memoria principal",
+            "Memoria secundaria",
+            "Memoria temporal"
+        ],
+        "correctAnswer": "Memoria secundaria"
+    },
+    {
+        "question": "¿Cuál es el propósito del Registro de Direcciones (RD)?",
+        "options": [
+            "Contiene el dato que se va a leer o escribir en memoria",
+            "Almacena la dirección de memoria para operaciones de lectura o escritura",
+            "Ejecuta instrucciones en secuencia",
+            "Transporta señales de control al sistema"
+        ],
+        "correctAnswer": "Almacena la dirección de memoria para operaciones de lectura o escritura"
+    },
+    {
+        "question": "¿Cuál de las siguientes es una función del Selector de Memoria (SM)?",
+        "options": [
+            "Seleccionar el registro acumulador",
+            "Determinar el tipo de operación entre lectura y escritura",
+            "Almacenar datos temporalmente",
+            "Ejecutar operaciones aritméticas"
+        ],
+        "correctAnswer": "Determinar el tipo de operación entre lectura y escritura"
+    },
+    {
+        "question": "¿Qué componente se encarga de interpretar la operación de una instrucción?",
+        "options": [
+            "Decodificador",
+            "Generador de señales",
+            "Registro de datos",
+            "Bus de direcciones"
+        ],
+        "correctAnswer": "Decodificador"
+    },
+    {
+        "question": "¿Qué componente permite que la CPU comunique con unidades externas?",
+        "options": [
+            "Unidad de E/S",
+            "Memoria caché",
+            "Unidad de Control",
+            "Registro acumulador"
+        ],
+        "correctAnswer": "Unidad de E/S"
+    },
+        {
+            "question": "¿Cuál es la función principal de la Unidad Aritmético-Lógica (UAL)?",
+            "options": [
+                "Almacenar datos y direcciones",
+                "Ejecutar operaciones aritméticas y lógicas",
+                "Controlar el flujo de datos entre la memoria y la CPU",
+                "Decodificar instrucciones"
+            ],
+            "correctAnswer": "Ejecutar operaciones aritméticas y lógicas"
+        },
+        {
+            "question": "¿Qué tipo de operaciones realiza la Unidad Aritmético-Lógica (UAL)?",
+            "options": [
+                "Operaciones de lectura y escritura en memoria",
+                "Operaciones aritméticas como suma y resta, y operaciones lógicas como AND y OR",
+                "Operaciones de control de flujo",
+                "Operaciones de direccionamiento de memoria"
+            ],
+            "correctAnswer": "Operaciones aritméticas como suma y resta, y operaciones lógicas como AND y OR"
+        },
+        {
+            "question": "¿Qué componente indica qué elemento debe ponerse en funcionamiento en cada momento?",
+            "options": [
+                "Registro de datos",
+                "Unidad de Control (UC)",
+                "Unidad Aritmético-Lógica (UAL)",
+                "Bus de control"
+            ],
+            "correctAnswer": "Unidad de Control (UC)"
+        },
+        {
+            "question": "¿Cuál es la función del Registro de Instrucción (RI) en el procesamiento de datos?",
+            "options": [
+                "Almacenar datos temporales",
+                "Guardar la instrucción que se está ejecutando en ese momento",
+                "Almacenar el resultado de la última operación",
+                "Contar el número de operaciones realizadas"
+            ],
+            "correctAnswer": "Guardar la instrucción que se está ejecutando en ese momento"
+        },
+        {
+            "question": "¿Qué registro contiene la dirección de memoria de la próxima instrucción a ejecutar?",
+            "options": [
+                "Registro de instrucciones (RI)",
+                "Registro acumulador (AC)",
+                "Registro de estado (RE)",
+                "Contador de programa (CP)"
+            ],
+            "correctAnswer": "Contador de programa (CP)"
+        },
+        {
+            "question": "¿Qué es el Registro de Estado (RE) en un procesador?",
+            "options": [
+                "Un registro que almacena el resultado de la última operación aritmética",
+                "Un registro que almacena el estado o condición de la última operación realizada",
+                "Un registro que almacena la siguiente instrucción a ejecutar",
+                "Un registro que permite acceder a la memoria caché"
+            ],
+            "correctAnswer": "Un registro que almacena el estado o condición de la última operación realizada"
+        },
+        {
+            "question": "¿Cuál es el rol del Generador de Señales o Secuenciador en la Unidad de Control?",
+            "options": [
+                "Generar microórdenes para ejecutar la instrucción almacenada en el Registro de Instrucción",
+                "Interpretar la operación de la instrucción",
+                "Almacenar datos temporales",
+                "Gestionar el almacenamiento en la memoria principal"
+            ],
+            "correctAnswer": "Generar microórdenes para ejecutar la instrucción almacenada en el Registro de Instrucción"
+        },
+        {
+            "question": "¿Qué función cumple el Registro de Direcciones (RD) en la transferencia de datos?",
+            "options": [
+                "Almacenar temporalmente el resultado de la UAL",
+                "Contener la dirección de memoria donde se realizará la operación de lectura o escritura",
+                "Contar las operaciones ejecutadas",
+                "Transportar las señales de control al procesador"
+            ],
+            "correctAnswer": "Contener la dirección de memoria donde se realizará la operación de lectura o escritura"
+        },
+        {
+            "question": "¿Cuál es la función del Registro de Intercambio (RI) en la Unidad de Memoria?",
+            "options": [
+                "Indicar la dirección de la próxima instrucción",
+                "Contener el dato que será leído o escrito en memoria",
+                "Transportar señales de sincronización",
+                "Almacenar el estado del procesador"
+            ],
+            "correctAnswer": "Contener el dato que será leído o escrito en memoria"
+        },
+        {
+            "question": "¿Qué componente interpreta la operación de la instrucción almacenada en el Registro de Instrucción (RI)?",
+            "options": [
+                "Unidad Aritmético-Lógica (UAL)",
+                "Generador de señales",
+                "Decodificador",
+                "Reloj"
+            ],
+            "correctAnswer": "Decodificador"
+        }
+]

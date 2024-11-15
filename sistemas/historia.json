@@ -1,0 +1,252 @@
+[
+    {
+        "question": "¿De qué palabras proviene el término 'informática'?",
+        "options": [
+            "Información y automática",
+            "Información y tecnología",
+            "Automática y cálculo",
+            "Tecnología y datos"
+        ],
+        "correctAnswer": "Información y automática"
+    },
+    {
+        "question": "¿Cuál de los siguientes elementos se usaba en la antigüedad para contar?",
+        "options": [
+            "Dispositivos mecánicos",
+            "Dedos de una mano, piedras o granos",
+            "Máquinas calculadoras",
+            "Ábacos romanos"
+        ],
+        "correctAnswer": "Dedos de una mano, piedras o granos"
+    },
+    {
+        "question": "¿Qué tipo de ábacos se mencionan como antecedentes históricos?",
+        "options": [
+            "Chinos, japoneses, ruso o romano",
+            "Europeo y africano",
+            "Americano y asiático",
+            "Ábaco binario"
+        ],
+        "correctAnswer": "Chinos, japoneses, ruso o romano"
+    },
+    {
+        "question": "¿Qué invento de Wilhelm Schickard es mencionado como antecedente de las máquinas de cálculo?",
+        "options": [
+            "Telar programable",
+            "Calculadora mecánica",
+            "Pascalina",
+            "Ábaco de piedra"
+        ],
+        "correctAnswer": "Calculadora mecánica"
+    },
+    {
+        "question": "¿Quién creó la Pascalina, una de las primeras calculadoras mecánicas?",
+        "options": [
+            "Gottfried Leibniz",
+            "Blaise Pascal",
+            "J. M. Jacquard",
+            "Charles Babbage"
+        ],
+        "correctAnswer": "Blaise Pascal"
+    },
+    {
+        "question": "¿Qué invento desarrolló Gottfried Leibniz?",
+        "options": [
+            "Calculadora de Schickard",
+            "Ábaco chino",
+            "Calculadora mecánica",
+            "Máquina analítica"
+        ],
+        "correctAnswer": "Calculadora mecánica"
+    },
+    {
+        "question": "¿Qué invento de J. M. Jacquard permitió el uso de tarjetas programables?",
+        "options": [
+            "Pascalina",
+            "Telar programable",
+            "Calculadora mecánica",
+            "Máquina tabuladora"
+        ],
+        "correctAnswer": "Telar programable"
+    },
+    {
+        "question": "¿Qué máquina fue desarrollada por Charles Babbage?",
+        "options": [
+            "Calculadora de Schickard",
+            "Máquina tabuladora",
+            "Máquina analítica",
+            "Telar de Jacquard"
+        ],
+        "correctAnswer": "Máquina analítica"
+    },
+    {
+        "question": "¿Qué dispositivo creó Herman Hollerith a finales del siglo XIX?",
+        "options": [
+            "Máquina analítica",
+            "Calculadora mecánica",
+            "Máquina tabuladora",
+            "Computadora moderna"
+        ],
+        "correctAnswer": "Máquina tabuladora"
+    },
+    {
+        "question": "¿Cuál fue el propósito principal de la máquina tabuladora de Herman Hollerith?",
+        "options": [
+            "Realizar cálculos astronómicos",
+            "Contabilizar datos del censo de EE.UU.",
+            "Desarrollar software de programación",
+            "Eficientizar los cálculos financieros"
+        ],
+        "correctAnswer": "Contabilizar datos del censo de EE.UU."
+    },
+    {
+        "question": "¿Qué caracteriza a la primera generación de ordenadores?",
+        "options": [
+            "Uso de transistores",
+            "Implementación de chips",
+            "Válvulas de vacío o tubos",
+            "Microprocesadores"
+        ],
+        "correctAnswer": "Válvulas de vacío o tubos"
+    },
+    {
+        "question": "¿Qué tipo de aplicaciones se desarrollaron en la primera generación de ordenadores?",
+        "options": [
+            "Aplicaciones domésticas",
+            "Fines científicos y militares",
+            "Juegos de entretenimiento",
+            "Redes sociales"
+        ],
+        "correctAnswer": "Fines científicos y militares"
+    },
+    {
+        "question": "¿Qué máquina de la primera generación fue usada en la II Guerra Mundial?",
+        "options": [
+            "Telar de Jacquard",
+            "Máquina analítica",
+            "Colossus",
+            "Calculadora mecánica de Schickard"
+        ],
+        "correctAnswer": "Colossus"
+    },
+    {
+        "question": "¿Cuál fue una característica del ordenador Harvard Mark I?",
+        "options": [
+            "Primer ordenador electromecánico",
+            "Primera computadora con chips",
+            "Uso de microprocesadores",
+            "Implementación de sistemas operativos avanzados"
+        ],
+        "correctAnswer": "Primer ordenador electromecánico"
+    },
+    {
+        "question": "¿Qué tecnología reemplazó a las válvulas de vacío en la segunda generación?",
+        "options": [
+            "Chips",
+            "Microprocesadores",
+            "Transistores",
+            "Redes de datos"
+        ],
+        "correctAnswer": "Transistores"
+    },
+    {
+        "question": "¿Qué lenguaje de programación surgió en la segunda generación?",
+        "options": [
+            "Python",
+            "COBOL",
+            "Java",
+            "BASIC"
+        ],
+        "correctAnswer": "COBOL"
+    },
+    {
+        "question": "¿Qué avance caracteriza a la tercera generación de ordenadores?",
+        "options": [
+            "Circuitos integrados o chips",
+            "Microprocesadores",
+            "Redes de comunicación",
+            "Periféricos avanzados"
+        ],
+        "correctAnswer": "Circuitos integrados o chips"
+    },
+    {
+        "question": "¿Qué lenguajes de programación surgieron en la tercera generación?",
+        "options": [
+            "Java y Python",
+            "COBOL y Fortran",
+            "BASIC, PL/1, C y Pascal",
+            "Ruby y PHP"
+        ],
+        "correctAnswer": "BASIC, PL/1, C y Pascal"
+    },
+    {
+        "question": "¿Cuál es la característica principal de la cuarta generación de ordenadores?",
+        "options": [
+            "Uso de válvulas de vacío",
+            "Uso de transistores",
+            "Microprocesadores",
+            "Implementación de inteligencia artificial"
+        ],
+        "correctAnswer": "Microprocesadores"
+    },
+    {
+        "question": "¿Qué sistema operativo surgió en la cuarta generación y fue precursor de Linux?",
+        "options": [
+            "Windows",
+            "Mac OS",
+            "Unix",
+            "MS-DOS"
+        ],
+        "correctAnswer": "Unix"
+    },
+    {
+        "question": "¿Qué generación introdujo la computadora para uso doméstico?",
+        "options": [
+            "Primera generación",
+            "Segunda generación",
+            "Tercera generación",
+            "Cuarta generación"
+        ],
+        "correctAnswer": "Cuarta generación"
+    },
+    {
+        "question": "¿Qué evento marca el inicio de la quinta generación de ordenadores?",
+        "options": [
+            "La aparición del IBM PC",
+            "El desarrollo de la máquina analítica",
+            "La invención de la Pascalina",
+            "El uso de válvulas de vacío"
+        ],
+        "correctAnswer": "La aparición del IBM PC"
+    },
+    {
+        "question": "¿Qué tipo de programación se desarrolló en la quinta generación?",
+        "options": [
+            "Lenguajes ensamblador",
+            "Programación orientada a objetos",
+            "Sistemas operativos avanzados",
+            "Procesamiento de texto"
+        ],
+        "correctAnswer": "Programación orientada a objetos"
+    },
+    {
+        "question": "¿Cuáles son algunos lenguajes que surgieron en la quinta generación?",
+        "options": [
+            "Python y Ruby",
+            "Java, C++ y Delphi",
+            "COBOL y Fortran",
+            "BASIC y Pascal"
+        ],
+        "correctAnswer": "Java, C++ y Delphi"
+    },
+    {
+        "question": "¿Qué tecnologías se consideran como posibles componentes de una sexta generación?",
+        "options": [
+            "Redes sociales",
+            "Computación en la nube y ordenadores cuánticos",
+            "Programación orientada a objetos",
+            "Circuitos integrados"
+        ],
+        "correctAnswer": "Computación en la nube y ordenadores cuánticos"
+    }
+]

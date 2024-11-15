@@ -1,0 +1,392 @@
+[
+    {
+        "question": "¿Qué es una relación laboral?",
+        "options": [
+            "Una relación entre un trabajador autónomo y una empresa",
+            "Una relación entre una persona que trabaja y una empresa bajo ciertas condiciones",
+            "Una relación de amistad entre compañeros de trabajo",
+            "Una relación en la que el trabajador asume las pérdidas de la empresa"
+        ],
+        "correctAnswer": "Una relación entre una persona que trabaja y una empresa bajo ciertas condiciones"
+    },
+    {
+        "question": "¿Cuál de las siguientes NO es una característica de la relación laboral?",
+        "options": [
+            "Personal",
+            "Voluntario",
+            "Por cuenta propia",
+            "Retribuido"
+        ],
+        "correctAnswer": "Por cuenta propia"
+    },
+    {
+        "question": "¿Qué tipo de relación corresponde a los funcionarios públicos?",
+        "options": [
+            "Relación laboral",
+            "Relación no laboral o excluida",
+            "Relación laboral especial",
+            "Relación de contrato temporal"
+        ],
+        "correctAnswer": "Relación no laboral o excluida"
+    },
+    {
+        "question": "¿Cuál es un ejemplo de una relación laboral especial?",
+        "options": [
+            "Funcionario",
+            "Trabajador autónomo",
+            "Deportista profesional",
+            "Vecino de buena voluntad"
+        ],
+        "correctAnswer": "Deportista profesional"
+    },
+    {
+        "question": "¿Qué norma regula principalmente las relaciones laborales en España?",
+        "options": [
+            "La Constitución Española",
+            "El Estatuto de los Trabajadores",
+            "Las Normas de la OIT",
+            "Los Reglamentos de las Cortes"
+        ],
+        "correctAnswer": "El Estatuto de los Trabajadores"
+    },
+    {
+        "question": "¿Cuál es el primer nivel en la jerarquía de las normas laborales en España?",
+        "options": [
+            "Convenios colectivos",
+            "La Constitución Española",
+            "Normas de la Unión Europea",
+            "Usos y costumbres"
+        ],
+        "correctAnswer": "Normas de la Unión Europea"
+    },
+    {
+        "question": "¿Qué principio establece que se debe aplicar la norma más beneficiosa para el trabajador?",
+        "options": [
+            "Norma mínima",
+            "In dubio pro operario",
+            "Norma más favorable",
+            "Condición más beneficiosa"
+        ],
+        "correctAnswer": "Norma más favorable"
+    },
+    {
+        "question": "¿Qué derecho individual permite elegir libremente la profesión u oficio?",
+        "options": [
+            "Derecho de ocupación efectiva",
+            "Derecho de integridad física",
+            "Derecho de elección de profesión",
+            "Derecho a la percepción puntual del salario"
+        ],
+        "correctAnswer": "Derecho de elección de profesión"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un deber del trabajador?",
+        "options": [
+            "Negarse a cumplir órdenes de la empresa",
+            "Contribuir a la mejora de la productividad",
+            "Establecer sus propias normas de seguridad",
+            "Determinar su horario laboral"
+        ],
+        "correctAnswer": "Contribuir a la mejora de la productividad"
+    },
+    {
+        "question": "¿Quién puede votar en las elecciones de representantes de personal?",
+        "options": [
+            "Trabajadores mayores de 18 años",
+            "Trabajadores mayores de 16 años con al menos un mes de antigüedad",
+            "Trabajadores con un mínimo de seis meses en la empresa",
+            "Solo trabajadores afiliados a un sindicato"
+        ],
+        "correctAnswer": "Trabajadores mayores de 16 años con al menos un mes de antigüedad"
+    },
+    {
+        "question": "¿Cuál es la función principal de una sección sindical?",
+        "options": [
+            "Representar a todos los empleados de una empresa",
+            "Representar los intereses de los afiliados a un sindicato dentro de la empresa",
+            "Establecer el salario de los trabajadores",
+            "Negociar contratos individuales"
+        ],
+        "correctAnswer": "Representar los intereses de los afiliados a un sindicato dentro de la empresa"
+    },
+    {
+        "question": "¿Cuál es el objetivo de un convenio colectivo?",
+        "options": [
+            "Establecer normas sobre derechos individuales de los trabajadores",
+            "Regular condiciones de trabajo y productividad en una empresa o sector",
+            "Fijar el salario mínimo nacional",
+            "Definir las leyes laborales en la Unión Europea"
+        ],
+        "correctAnswer": "Regular condiciones de trabajo y productividad en una empresa o sector"
+    },
+    {
+        "question": "¿Qué se aplica primero si existe un conflicto entre convenios colectivos?",
+        "options": [
+            "Convenio colectivo de la empresa",
+            "Convenio provincial",
+            "Convenio autonómico",
+            "Convenio nacional"
+        ],
+        "correctAnswer": "Convenio colectivo de la empresa"
+    },
+    {
+        "question": "¿Qué es un conflicto colectivo?",
+        "options": [
+            "Una discrepancia individual entre un trabajador y la empresa",
+            "Una disputa que afecta a los intereses generales de los trabajadores",
+            "Un desacuerdo entre sindicatos",
+            "Un problema personal de un empleado"
+        ],
+        "correctAnswer": "Una disputa que afecta a los intereses generales de los trabajadores"
+    },
+    {
+        "question": "¿Qué derecho fundamental permite a los trabajadores cesar su actividad para defender sus intereses?",
+        "options": [
+            "Libertad sindical",
+            "Huelga",
+            "Negociación colectiva",
+            "Reunión en asamblea"
+        ],
+        "correctAnswer": "Huelga"
+    },
+    {
+        "question": "¿Qué implica el cierre de la patronal?",
+        "options": [
+            "La empresa prohíbe el acceso a ciertos trabajadores",
+            "El empresario cierra el centro de trabajo en situaciones de peligro",
+            "La empresa contrata nuevos empleados",
+            "El despido colectivo de trabajadores"
+        ],
+        "correctAnswer": "El empresario cierra el centro de trabajo en situaciones de peligro"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un poder de la empresa?",
+        "options": [
+            "Poder de huelga",
+            "Poder de reunión",
+            "Poder disciplinario",
+            "Poder de negociación colectiva"
+        ],
+        "correctAnswer": "Poder disciplinario"
+    },
+    {
+        "question": "¿Qué organismo supervisa el cumplimiento de la legislación laboral en España?",
+        "options": [
+            "Inspección de Trabajo",
+            "Ministerio de Justicia",
+            "Audiencia Nacional",
+            "Tribunal Constitucional"
+        ],
+        "correctAnswer": "Inspección de Trabajo"
+    },
+    {
+        "question": "¿Qué tribunal resuelve los conflictos laborales dentro de su provincia?",
+        "options": [
+            "Audiencia Nacional",
+            "Tribunal Supremo",
+            "Juzgados de lo Social",
+            "Tribunal Superior de Justicia"
+        ],
+        "correctAnswer": "Juzgados de lo Social"
+    },
+    {
+        "question": "¿Qué característica define una relación laboral como 'por cuenta ajena'?",
+        "options": [
+            "El trabajador asume las pérdidas de la empresa",
+            "El trabajador utiliza los recursos de la empresa",
+            "El trabajador decide su horario",
+            "El trabajador trabaja por voluntad propia"
+        ],
+        "correctAnswer": "El trabajador utiliza los recursos de la empresa"
+    },
+    {
+        "question": "¿Cuál de estas es una relación excluida de la regulación laboral?",
+        "options": [
+            "Trabajador autónomo",
+            "Trabajador en nómina",
+            "Empleado del sector privado",
+            "Empleado del hogar"
+        ],
+        "correctAnswer": "Trabajador autónomo"
+    },
+    {
+        "question": "¿En qué año fue aprobado el Estatuto de los Trabajadores?",
+        "options": [
+            "1980",
+            "1995",
+            "1978",
+            "2015"
+        ],
+        "correctAnswer": "1980"
+    },
+    {
+        "question": "¿Cuál de las siguientes NO es una fuente de derecho laboral en España?",
+        "options": [
+            "Normas de la OIT",
+            "Convenios Colectivos",
+            "Ley de extranjería",
+            "Constitución Española"
+        ],
+        "correctAnswer": "Ley de extranjería"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un principio de aplicación de normas laborales?",
+        "options": [
+            "Principio de subordinación",
+            "Principio de jerarquía laboral",
+            "Principio de irrenunciabilidad de derechos",
+            "Principio de remuneración"
+        ],
+        "correctAnswer": "Principio de irrenunciabilidad de derechos"
+    },
+    {
+        "question": "¿Qué derecho protege la afiliación sindical de los trabajadores?",
+        "options": [
+            "Derecho de reunión",
+            "Derecho de libre elección de empleo",
+            "Derecho de libre sindicación",
+            "Derecho a la negociación colectiva"
+        ],
+        "correctAnswer": "Derecho de libre sindicación"
+    },
+    {
+        "question": "¿Qué debe garantizar la empresa en cuanto a la integridad física del trabajador?",
+        "options": [
+            "El pago de horas extras",
+            "Una política de prevención de riesgos laborales",
+            "La posibilidad de elegir su jornada",
+            "Un lugar de descanso"
+        ],
+        "correctAnswer": "Una política de prevención de riesgos laborales"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un derecho colectivo de los trabajadores?",
+        "options": [
+            "La percepción puntual del salario",
+            "La ocupación efectiva",
+            "La representación sindical",
+            "El derecho a la no discriminación"
+        ],
+        "correctAnswer": "La representación sindical"
+    },
+    {
+        "question": "¿Cuántos años dura el mandato de un delegado de personal o miembro del comité de empresa?",
+        "options": [
+            "2 años",
+            "3 años",
+            "4 años",
+            "5 años"
+        ],
+        "correctAnswer": "4 años"
+    },
+    {
+        "question": "¿Qué tipo de relación tiene un médico interno residente (MIR) con la empresa?",
+        "options": [
+            "Relación laboral",
+            "Relación no laboral",
+            "Relación laboral especial",
+            "Relación autónoma"
+        ],
+        "correctAnswer": "Relación laboral especial"
+    },
+    {
+        "question": "¿Quiénes pueden promover las elecciones de representantes de personal?",
+        "options": [
+            "Los sindicatos y los empresarios",
+            "Los sindicatos y los trabajadores por acuerdo mayoritario",
+            "Solo el comité de empresa",
+            "El Ministerio de Trabajo"
+        ],
+        "correctAnswer": "Los sindicatos y los trabajadores por acuerdo mayoritario"
+    },
+    {
+        "question": "¿Qué norma tiene preferencia en la aplicación, el convenio de empresa o el convenio provincial?",
+        "options": [
+            "Convenio provincial",
+            "Convenio autonómico",
+            "Convenio de empresa",
+            "Convenio nacional"
+        ],
+        "correctAnswer": "Convenio de empresa"
+    },
+    {
+        "question": "¿Qué acción pueden realizar los trabajadores sin suspender el trabajo en un conflicto colectivo?",
+        "options": [
+            "Realizar una huelga",
+            "Hacer manifestaciones o concentraciones",
+            "Paralizar la producción",
+            "Cerrar el centro de trabajo"
+        ],
+        "correctAnswer": "Hacer manifestaciones o concentraciones"
+    },
+    {
+        "question": "¿Qué efecto tiene la huelga sobre el contrato de trabajo?",
+        "options": [
+            "Desvinculación definitiva",
+            "Suspensión temporal del contrato",
+            "Aumento de salario",
+            "Establecimiento de nuevas condiciones"
+        ],
+        "correctAnswer": "Suspensión temporal del contrato"
+    },
+    {
+        "question": "¿Qué tipo de conflicto colectivo requiere la suspensión del trabajo?",
+        "options": [
+            "Concentración",
+            "Manifestación",
+            "Huelga",
+            "Encierro"
+        ],
+        "correctAnswer": "Huelga"
+    },
+    {
+        "question": "¿Qué poder permite a la empresa sancionar a los trabajadores?",
+        "options": [
+            "Poder de dirección",
+            "Poder de control",
+            "Poder disciplinario",
+            "Poder administrativo"
+        ],
+        "correctAnswer": "Poder disciplinario"
+    },
+    {
+        "question": "¿Qué medida puede tomar un empresario durante un conflicto colectivo ante peligro de violencia?",
+        "options": [
+            "Suspender a los trabajadores",
+            "Realizar una auditoría",
+            "Cerrar el centro de trabajo",
+            "Aumentar la producción"
+        ],
+        "correctAnswer": "Cerrar el centro de trabajo"
+    },
+    {
+        "question": "¿Qué tribunal laboral revisa los recursos contra los Juzgados de lo Social?",
+        "options": [
+            "Audiencia Nacional",
+            "Tribunal Supremo",
+            "Tribunal Superior de Justicia",
+            "Juzgado de Paz"
+        ],
+        "correctAnswer": "Tribunal Superior de Justicia"
+    },
+    {
+        "question": "¿Qué organismo puede levantar actas de infracción en materia laboral?",
+        "options": [
+            "Ministerio de Justicia",
+            "Inspección de Trabajo",
+            "Audiencia Nacional",
+            "Tribunal Constitucional"
+        ],
+        "correctAnswer": "Inspección de Trabajo"
+    },
+    {
+        "question": "¿Quién puede formar parte de un comité de empresa?",
+        "options": [
+            "Cualquier trabajador con un mes de antigüedad",
+            "Trabajadores mayores de 18 años con seis meses de antigüedad",
+            "Solo trabajadores afiliados a un sindicato",
+            "Solo el personal directivo"
+        ],
+        "correctAnswer": "Trabajadores mayores de 18 años con seis meses de antigüedad"
+    }
+]

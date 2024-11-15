@@ -1,0 +1,302 @@
+[
+    {
+        "question": "¿Qué operación lógica binaria da como resultado 1 solo si ambos bits son 1?",
+        "options": [
+            "OR",
+            "AND",
+            "NOT",
+            "XOR"
+        ],
+        "correctAnswer": "AND"
+    },
+    {
+        "question": "En una operación OR, si los bits de entrada son 1 y 0, ¿cuál es el resultado?",
+        "options": [
+            "1",
+            "0",
+            "Depende de los valores",
+            "Inverso del primer bit"
+        ],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "¿Qué operación lógica invierte el valor del bit?",
+        "options": [
+            "OR",
+            "AND",
+            "NOT",
+            "XOR"
+        ],
+        "correctAnswer": "NOT"
+    },
+    {
+        "question": "¿Cuál es el resultado de aplicar la operación AND entre los bits 1 y 0?",
+        "options": [
+            "1",
+            "0",
+            "2",
+            "Depende de la siguiente operación"
+        ],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "¿Qué operación lógica da como resultado 1 si uno de los bits es 1, pero no ambos?",
+        "options": [
+            "XOR",
+            "AND",
+            "NOR",
+            "NAND"
+        ],
+        "correctAnswer": "XOR"
+    },
+    {
+        "question": "¿Cómo se llama la operación lógica que da como resultado 1 solo si ambos bits de entrada son 0?",
+        "options": [
+            "NOR",
+            "NAND",
+            "XOR",
+            "AND"
+        ],
+        "correctAnswer": "NOR"
+    },
+    {
+        "question": "En una operación lógica NAND, si ambos bits son 1, ¿cuál es el resultado?",
+        "options": [
+            "0",
+            "1",
+            "Depende de los valores",
+            "No se puede determinar"
+        ],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "¿Qué operación lógica tiene una tabla de verdad en la cual el resultado es 1 si ambas entradas son diferentes?",
+        "options": [
+            "XOR",
+            "OR",
+            "AND",
+            "NOR"
+        ],
+        "correctAnswer": "XOR"
+    },
+    {
+        "question": "En una operación lógica NOR, si ambos bits son 0, ¿cuál es el resultado?",
+        "options": [
+            "1",
+            "0",
+            "Depende del valor siguiente",
+            "Inverso del primer bit"
+        ],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "¿Cuál es el resultado de aplicar NOT al bit 1?",
+        "options": [
+            "0",
+            "1",
+            "Depende de los valores",
+            "Inverso del primer bit"
+        ],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "¿Qué operación lógica se representa con el símbolo '+' en el álgebra booleana?",
+        "options": [
+            "OR",
+            "AND",
+            "NOT",
+            "XOR"
+        ],
+        "correctAnswer": "OR"
+    },
+    {
+        "question": "¿Cuál es el valor de 1 XOR 1?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "Inverso del primer bit"
+        ],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "¿Qué representa el 'acareo' en una suma binaria?",
+        "options": [
+            "El bit que se lleva a la siguiente posición",
+            "La suma de todos los bits",
+            "El resultado total",
+            "Un error en el cálculo"
+        ],
+        "correctAnswer": "El bit que se lleva a la siguiente posición"
+    },
+    {
+        "question": "En una suma binaria, ¿cuál es el resultado de 1 + 1?",
+        "options": [
+            "0 con acarreo 1",
+            "1 con acarreo 0",
+            "2",
+            "1"
+        ],
+        "correctAnswer": "0 con acarreo 1"
+    },
+    {
+        "question": "¿Qué significa el complemento a 1 de un número binario?",
+        "options": [
+            "Inversión de todos los bits",
+            "Añadir 1 a todos los bits",
+            "Restar 1 al número",
+            "Multiplicar por 2"
+        ],
+        "correctAnswer": "Inversión de todos los bits"
+    },
+    {
+        "question": "¿Qué es el complemento a 2 en binario?",
+        "options": [
+            "Inversión de los bits y sumar 1",
+            "Inversión de todos los bits",
+            "Restar 2 al número",
+            "Dividir entre 2"
+        ],
+        "correctAnswer": "Inversión de los bits y sumar 1"
+    },
+    {
+        "question": "¿Cuál es el valor de la suma 0111 + 1001 en binario?",
+        "options": [
+            "10000",
+            "1111",
+            "0110",
+            "1011"
+        ],
+        "correctAnswer": "1111"
+    },
+    {
+        "question": "¿Qué representa el bit de signo en el almacenamiento de números con signo?",
+        "options": [
+            "Indica si el número es positivo o negativo",
+            "Indica el valor absoluto del número",
+            "Indica la base del sistema",
+            "Indica el tamaño del número"
+        ],
+        "correctAnswer": "Indica si el número es positivo o negativo"
+    },
+    {
+        "question": "¿Cuántos bits se utilizan para el exponente en la precisión simple del formato IEEE 754?",
+        "options": [
+            "8",
+            "4",
+            "23",
+            "11"
+        ],
+        "correctAnswer": "8"
+    },
+    {
+        "question": "¿Cuál es la operación que permite almacenar caracteres en memoria?",
+        "options": [
+            "Codificación en ASCII o Unicode",
+            "Formato IEEE 754",
+            "Complemento a 2",
+            "Conversión binaria"
+        ],
+        "correctAnswer": "Codificación en ASCII o Unicode"
+    },
+    {
+        "question": "¿Qué representa el valor 1 en una tabla de verdad para la operación AND?",
+        "options": [
+            "Ambas entradas son 1",
+            "Ambas entradas son 0",
+            "Una entrada es 1 y otra 0",
+            "No se puede determinar"
+        ],
+        "correctAnswer": "Ambas entradas son 1"
+    },
+    {
+        "question": "¿Cuál es la tabla de verdad correcta para la operación NOT?",
+        "options": [
+            "Si A=1, salida=0 y si A=0, salida=1",
+            "Si A=1, salida=1 y si A=0, salida=0",
+            "Si A=0, salida=0 y si A=1, salida=1",
+            "No tiene tabla de verdad"
+        ],
+        "correctAnswer": "Si A=1, salida=0 y si A=0, salida=1"
+    },
+    {
+        "question": "¿Qué resultado da la operación 1 OR 0 en lógica binaria?",
+        "options": [
+            "1",
+            "0",
+            "Depende de los valores siguientes",
+            "Inverso del primer bit"
+        ],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "¿Qué función realiza el circuito NAND?",
+        "options": [
+            "NOT de la operación AND",
+            "Suma binaria",
+            "Comparación lógica",
+            "NOT de la operación OR"
+        ],
+        "correctAnswer": "NOT de la operación AND"
+    },
+    {
+        "question": "¿En qué situación es útil el complemento a 2 en binario?",
+        "options": [
+            "Para representar números negativos",
+            "Para sumar grandes cantidades",
+            "Para representar decimales",
+            "Para dividir en binario"
+        ],
+        "correctAnswer": "Para representar números negativos"
+    },
+    {
+        "question": "¿Cuál es la base del sistema binario?",
+        "options": [
+            "2",
+            "8",
+            "10",
+            "16"
+        ],
+        "correctAnswer": "2"
+    },
+    {
+        "question": "En la operación XOR, ¿cuál es el resultado de 1 XOR 0?",
+        "options": [
+            "1",
+            "0",
+            "Depende de la operación previa",
+            "Inverso del segundo bit"
+        ],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "¿Cómo se llama el proceso de cambiar todos los bits de 1 a 0 o de 0 a 1?",
+        "options": [
+            "Complemento a 1",
+            "Suma binaria",
+            "Acarreo",
+            "Multiplicación binaria"
+        ],
+        "correctAnswer": "Complemento a 1"
+    },
+    {
+        "question": "¿Qué ocurre cuando se realiza una operación lógica OR entre dos 0?",
+        "options": [
+            "El resultado es 0",
+            "El resultado es 1",
+            "Depende de los valores siguientes",
+            "Inverso del primer bit"
+        ],
+        "correctAnswer": "El resultado es 0"
+    },
+    {
+        "question": "¿Cuál es el resultado de 1 NOR 0 en lógica binaria?",
+        "options": [
+            "0",
+            "1",
+            "Depende de la operación previa",
+            "Inverso del segundo bit"
+        ],
+        "correctAnswer": "0"
+    }
+]

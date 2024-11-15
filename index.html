@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuestionarios de Formación</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Pantalla de inicio con botones para seleccionar la sección -->
+    <div id="start-screen">
+        <h1>Selecciona una Sección</h1>
+        <div class="sections">
+            <button onclick="showSection('sistemas_informaticos')">Sistemas Informáticos</button>
+            <button onclick="showSection('bases_de_datos')">Bases de Datos</button>
+            <button onclick="showSection('lenguaje_de_marcas')">Lenguaje de Marcas</button>
+            <button onclick="showSection('ingles_profesional')">Inglés Profesional</button>
+            <button onclick="showSection('entornos_de_desarrollo')">Entornos de Desarrollo</button>
+            <button onclick="showSection('programacion_java')">Programación (Java)</button>
+            <button onclick="showSection('itinerario_empleabilidad')">Itinerario Personal para la Empleabilidad</button>
+        </div>
+    </div>
+
+    <!-- Sección de cuestionario -->
+    <div id="quiz-container" class="hidden">
+        <!-- <h1>Realizar cuestionario:</h1> -->
+        <h1 id="quiz-title">Realizar cuestionario:</h1>
+        <div id="result" class="result"></div> <!-- Div para mostrar el resultado -->
+        <div id="questions"></div> <!-- Preguntas del cuestionario -->
+        <button onclick="checkAnswers()">Enviar Respuestas</button>
+        <!-- Botones de reiniciar e ir al inicio -->
+        <div id="end-buttons" class="hidden">
+            <button onclick="resetQuiz()">Reiniciar Formulario</button>
+            <button onclick="goToStart()">Volver al Inicio</button>
+        </div>
+    </div>
+
+    <!-- Contenedores de secciones con botones para cargar formularios específicos -->
+    <div id="sistemas_informaticos" class="apartados section hidden">
+        <h1>Sistemas Informáticos</h1>
+        <button onclick="loadQuiz('./sistemas/introduccion.json', 'Introducción')">Introducción</button>
+        <button onclick="loadQuiz('./sistemas/historia.json', 'Historia')">Historia</button>
+        <button onclick="loadQuiz('./sistemas/clasificacion.json', 'Clasificación sistemas informáticos')">Clasificación
+            sistemas informáticos</button>
+        <button onclick="loadQuiz('./sistemas/arquitectura.json', 'Arquitectura y elementos funcionales')">Arquitectura y
+            elementos funcionales</button>
+        <button onclick="loadQuiz('./sistemas/unidades-medida.json', 'Unidades de Medida')">Unidades de Medida</button>
+        <button onclick="loadQuiz('./sistemas/sistemas-numeracion.json', 'Sistemas de numeración')">Sistemas de
+            numeración</button>
+        <button
+            onclick="loadQuiz('./sistemas/operaciones-binarias.json', 'Operaciones lógicas y aritméticas binarias')">Operaciones
+            lógicas y aritméticas binarias</button>
+            <button
+            onclick="loadQuiz('./sistemas/hardware.json', 'Hardware de un sistema informático')">Hardware de un sistema informático</button>
+            <button
+                onclick="loadQuiz('./sistemas/software.json', 'Software')">Software de un sistema informático</button>
+            <button
+                onclick="loadQuiz('./sistemas/seguridad.json', 'Normas y recomendaciones de seguridad')">Normas y recomendaciones de seguridad</button>
+        <button class="btn-volver" onclick="goToStart()">Volver al Inicio</button>
+    </div>
+
+    <div id="bases_de_datos" class="apartados section hidden">
+        <h1>Bases de Datos</h1>
+        <button onclick="loadQuiz('bases_de_datos/introduccion.json')">Introducción a Bases de Datos</button>
+        <button onclick="goToStart()">Volver al Inicio</button>
+    </div>
+
+    <div id="lenguaje_de_marcas" class="apartados section hidden">
+        <h1>Lenguaje de Marcas</h1>
+        <button onclick="loadQuiz('lenguaje_de_marcas/introduccion.json')">Introducción a Lenguaje de Marcas</button>
+        <button onclick="goToStart()">Volver al Inicio</button>
+    </div>
+
+    <div id="ingles_profesional" class="apartados section hidden">
+        <h1>Inglés Profesional</h1>
+        <button onclick="loadQuiz('ingles_profesional/introduccion.json')">Introducción a Inglés Profesional</button>
+        <button onclick="goToStart()">Volver al Inicio</button>
+    </div>
+
+    <div id="entornos_de_desarrollo" class="apartados section hidden">
+        <h1>Entornos de Desarrollo</h1>
+        <button onclick="loadQuiz('entornos_de_desarrollo/introduccion.json')">Introducción a Entornos de
+            Desarrollo</button>
+        <button onclick="goToStart()">Volver al Inicio</button>
+    </div>
+
+    <div id="programacion_java" class="apartados section hidden">
+        <h1>Programación (Java)</h1>
+        <button onclick="loadQuiz('programacion_java/introduccion.json')">Introducción a Programación en Java</button>
+        <button onclick="goToStart()">Volver al Inicio</button>
+    </div>
+
+    <div id="itinerario_empleabilidad" class="apartados section hidden">
+        <h1>Itinerario Personal para la Empleabilidad</h1>
+        <button onclick="loadQuiz('itinerario/tema1.json')">Unidad 1</button>
+        <button onclick="goToStart()">Volver al Inicio</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

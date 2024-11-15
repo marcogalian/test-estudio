@@ -1,0 +1,432 @@
+[
+    {
+        "question": "¿Cuál es la unidad básica de almacenamiento de datos?",
+        "options": [
+            "Byte",
+            "Bit",
+            "Kilobyte",
+            "Megabyte"
+        ],
+        "correctAnswer": "Bit"
+    },
+    {
+        "question": "¿Cuántos bits hay en un byte?",
+        "options": [
+            "4 bits",
+            "8 bits",
+            "16 bits",
+            "10 bits"
+        ],
+        "correctAnswer": "8 bits"
+    },
+    {
+        "question": "¿Cuánto equivale 1 kilobyte (KB) en el sistema decimal?",
+        "options": [
+            "1,024 bytes",
+            "1,000 bytes",
+            "10,000 bytes",
+            "1,000 bits"
+        ],
+        "correctAnswer": "1,000 bytes"
+    },
+    {
+        "question": "¿Cuánto equivale 1 kibibyte (KiB) en el sistema binario?",
+        "options": [
+            "1,024 bytes",
+            "1,000 bytes",
+            "512 bytes",
+            "1,048 bytes"
+        ],
+        "correctAnswer": "1,024 bytes"
+    },
+    {
+        "question": "¿Cuál es el símbolo de la unidad megabyte en el sistema decimal?",
+        "options": [
+            "MB",
+            "MiB",
+            "MG",
+            "Mb"
+        ],
+        "correctAnswer": "MB"
+    },
+    {
+        "question": "¿A cuánto equivale 1 megabyte (MB) en el sistema decimal?",
+        "options": [
+            "1,000 KB",
+            "1,024 KB",
+            "10 KB",
+            "1,000 bytes"
+        ],
+        "correctAnswer": "1,000 KB"
+    },
+    {
+        "question": "¿Cuánto equivale 1 gibibyte (GiB) en el sistema binario?",
+        "options": [
+            "1,024 MiB",
+            "1,000 MiB",
+            "1,024 MB",
+            "1,000 KB"
+        ],
+        "correctAnswer": "1,024 MiB"
+    },
+    {
+        "question": "¿Cuál es el símbolo de la unidad terabyte en el sistema decimal?",
+        "options": [
+            "TB",
+            "TiB",
+            "T",
+            "TBs"
+        ],
+        "correctAnswer": "TB"
+    },
+    {
+        "question": "¿Qué prefijo se utiliza en el sistema binario para la unidad equivalente a un terabyte?",
+        "options": [
+            "Tebi",
+            "Gibi",
+            "Tera",
+            "Kibi"
+        ],
+        "correctAnswer": "Tebi"
+    },
+    {
+        "question": "¿Qué valor representa 1 kibibit (Kib) en bits?",
+        "options": [
+            "1,024 bits",
+            "1,000 bits",
+            "1,048 bits",
+            "10,000 bits"
+        ],
+        "correctAnswer": "1,024 bits"
+    },
+    {
+        "question": "¿Cuál es la unidad de medida de frecuencia en los sistemas informáticos?",
+        "options": [
+            "Hertz",
+            "Bytes",
+            "FLOPS",
+            "Bps"
+        ],
+        "correctAnswer": "Hertz"
+    },
+    {
+        "question": "¿Qué valor representa 1 gigahertz (GHz)?",
+        "options": [
+            "10^6 Hz",
+            "10^9 Hz",
+            "10^3 Hz",
+            "10^12 Hz"
+        ],
+        "correctAnswer": "10^9 Hz"
+    },
+    {
+        "question": "¿Cuál es el símbolo de la unidad de medida de frecuencia kilohertz?",
+        "options": [
+            "kHz",
+            "KHz",
+            "KH",
+            "kH"
+        ],
+        "correctAnswer": "kHz"
+    },
+    {
+        "question": "¿Qué mide la unidad FLOPS?",
+        "options": [
+            "Operaciones de coma flotante por segundo",
+            "Bytes por segundo",
+            "Ciclos de reloj por segundo",
+            "Bits por segundo"
+        ],
+        "correctAnswer": "Operaciones de coma flotante por segundo"
+    },
+    {
+        "question": "¿Qué valor representa un teraflop (TFLOP)?",
+        "options": [
+            "10^12 flops",
+            "10^9 flops",
+            "10^6 flops",
+            "10^15 flops"
+        ],
+        "correctAnswer": "10^12 flops"
+    },
+    {
+        "question": "¿Cuál es la unidad de medida de transferencia de datos más pequeña?",
+        "options": [
+            "Kilobits por segundo (kbps)",
+            "Megabits por segundo (Mbps)",
+            "Gigabits por segundo (Gbps)",
+            "Terabits por segundo (Tbps)"
+        ],
+        "correctAnswer": "Kilobits por segundo (kbps)"
+    },
+    {
+        "question": "¿Cuántos kilobits por segundo equivalen a 1 megabit por segundo?",
+        "options": [
+            "1,000 kbps",
+            "1,024 kbps",
+            "1,048 kbps",
+            "10,000 kbps"
+        ],
+        "correctAnswer": "1,000 kbps"
+    },
+    {
+        "question": "¿Qué significa la unidad Mbps?",
+        "options": [
+            "Megabits por segundo",
+            "Megabytes por segundo",
+            "Milibits por segundo",
+            "Microbits por segundo"
+        ],
+        "correctAnswer": "Megabits por segundo"
+    },
+    {
+        "question": "¿Cuántos bytes por segundo representa un gigabit por segundo (Gbps)?",
+        "options": [
+            "125 megabytes por segundo",
+            "1,000 megabytes por segundo",
+            "10 megabytes por segundo",
+            "1 megabyte por segundo"
+        ],
+        "correctAnswer": "125 megabytes por segundo"
+    },
+    {
+        "question": "¿Cuál es el valor de 1 exabyte (EB) en el sistema decimal?",
+        "options": [
+            "10^18 bytes",
+            "10^15 bytes",
+            "10^9 bytes",
+            "10^12 bytes"
+        ],
+        "correctAnswer": "10^18 bytes"
+    },
+    {
+        "question": "¿Qué valor representa un yobibyte (YiB) en el sistema binario?",
+        "options": [
+            "2^80 bytes",
+            "2^70 bytes",
+            "2^60 bytes",
+            "2^90 bytes"
+        ],
+        "correctAnswer": "2^80 bytes"
+    },
+    {
+        "question": "¿Cuál es la unidad básica de rendimiento para medir la capacidad de procesamiento de un sistema?",
+        "options": [
+            "FLOPS",
+            "Bytes",
+            "Bps",
+            "Hz"
+        ],
+        "correctAnswer": "FLOPS"
+    },
+    {
+        "question": "¿A cuánto equivale 1 petabyte (PB) en el sistema decimal?",
+        "options": [
+            "10^15 bytes",
+            "10^12 bytes",
+            "10^18 bytes",
+            "10^9 bytes"
+        ],
+        "correctAnswer": "10^15 bytes"
+    },
+    {
+        "question": "¿Cuál es el valor de 1 gigabyte (GB) en el sistema decimal?",
+        "options": [
+            "1,000 megabytes",
+            "1,024 megabytes",
+            "10^6 bytes",
+            "10^12 bytes"
+        ],
+        "correctAnswer": "1,000 megabytes"
+    },
+    {
+        "question": "¿Cuál es el símbolo de la unidad kilobit?",
+        "options": [
+            "Kb",
+            "KB",
+            "kB",
+            "kib"
+        ],
+        "correctAnswer": "Kb"
+    },
+    {
+        "question": "¿Qué prefijo corresponde a 10^21 en el sistema decimal?",
+        "options": [
+            "Zetta",
+            "Exa",
+            "Yotta",
+            "Tera"
+        ],
+        "correctAnswer": "Zetta"
+    },
+    {
+        "question": "¿Cuántos bits hay en un kilobit (Kb)?",
+        "options": [
+            "1,024 bits",
+            "1,000 bits",
+            "10^3 bits",
+            "512 bits"
+        ],
+        "correctAnswer": "1,000 bits"
+    },
+    {
+        "question": "¿Qué prefijo representa 2^50 bytes en el sistema binario?",
+        "options": [
+            "Pebibyte",
+            "Tebibyte",
+            "Exabyte",
+            "Zebibyte"
+        ],
+        "correctAnswer": "Pebibyte"
+    },
+    {
+        "question": "¿Qué significa el prefijo 'mega' en el sistema decimal?",
+        "options": [
+            "10^3",
+            "10^6",
+            "2^20",
+            "10^9"
+        ],
+        "correctAnswer": "10^6"
+    },
+    {
+        "question": "¿A cuánto equivale 1 terabit (Tb) en bits?",
+        "options": [
+            "10^12 bits",
+            "10^9 bits",
+            "10^6 bits",
+            "10^15 bits"
+        ],
+        "correctAnswer": "10^12 bits"
+    },
+    {
+        "question": "¿Qué valor representa 1 megabit por segundo (Mbps) en bits por segundo?",
+        "options": [
+            "1,000,000 bps",
+            "1,024,000 bps",
+            "100,000 bps",
+            "1,000 bps"
+        ],
+        "correctAnswer": "1,000,000 bps"
+    },
+    {
+        "question": "¿Cuál es el valor de 1 exbibyte (EiB) en el sistema binario?",
+        "options": [
+            "2^60 bytes",
+            "2^50 bytes",
+            "10^18 bytes",
+            "2^70 bytes"
+        ],
+        "correctAnswer": "2^60 bytes"
+    },
+    {
+        "question": "¿Qué significa la unidad 'GHz' en frecuencia?",
+        "options": [
+            "Gigahercios",
+            "Gigabytes",
+            "Gigabits",
+            "Gibibytes"
+        ],
+        "correctAnswer": "Gigahercios"
+    },
+    {
+        "question": "¿Qué mide la unidad de vatio (W)?",
+        "options": [
+            "Potencia",
+            "Tensión",
+            "Intensidad",
+            "Resistencia"
+        ],
+        "correctAnswer": "Potencia"
+    },
+    {
+        "question": "¿Para qué se utiliza comúnmente la unidad de vatio en el ámbito informático?",
+        "options": [
+            "Para medir la capacidad de las baterías",
+            "Para medir la cantidad de dispositivos que una fuente de alimentación puede soportar",
+            "Para medir la intensidad de corriente en un circuito",
+            "Para medir la resistencia de un material"
+        ],
+        "correctAnswer": "Para medir la cantidad de dispositivos que una fuente de alimentación puede soportar"
+    },
+    {
+        "question": "¿Qué mide la unidad de voltio (V)?",
+        "options": [
+            "Potencia eléctrica",
+            "Resistencia eléctrica",
+            "Tensión o corriente eléctrica",
+            "Intensidad de corriente"
+        ],
+        "correctAnswer": "Tensión o corriente eléctrica"
+    },
+    {
+        "question": "¿Cuál de las siguientes opciones representa la unidad de medida de la intensidad de corriente?",
+        "options": [
+            "Voltio (V)",
+            "Amperio (A)",
+            "Ohmio (Ω)",
+            "Vatio (W)"
+        ],
+        "correctAnswer": "Amperio (A)"
+    },
+    {
+        "question": "¿Para qué se utiliza la medida de amperio (A) en informática?",
+        "options": [
+            "Para medir la capacidad de las baterías de los dispositivos",
+            "Para medir la resistencia en un circuito",
+            "Para calcular el consumo de datos",
+            "Para medir la frecuencia de la señal"
+        ],
+        "correctAnswer": "Para medir la capacidad de las baterías de los dispositivos"
+    },
+    {
+        "question": "¿Qué mide la unidad de ohmio (Ω)?",
+        "options": [
+            "La intensidad de corriente",
+            "La resistencia eléctrica",
+            "La potencia eléctrica",
+            "La tensión eléctrica"
+        ],
+        "correctAnswer": "La resistencia eléctrica"
+    },
+    {
+        "question": "¿Cuál de las siguientes unidades se utiliza para medir la potencia de una fuente de alimentación?",
+        "options": [
+            "Amperio",
+            "Ohmio",
+            "Voltio",
+            "Vatio"
+        ],
+        "correctAnswer": "Vatio"
+    },
+    {
+        "question": "¿Qué indica el voltio (V) en un circuito eléctrico?",
+        "options": [
+            "La resistencia al paso de la corriente",
+            "La potencia consumida por el circuito",
+            "La cantidad de energía transferida por unidad de carga",
+            "La intensidad de corriente en el circuito"
+        ],
+        "correctAnswer": "La cantidad de energía transferida por unidad de carga"
+    },
+    {
+        "question": "¿Cuál es la relación entre el vatio (W) y el amperio (A) y el voltio (V)?",
+        "options": [
+            "W = V / A",
+            "W = V * A",
+            "W = A / V",
+            "W = V + A"
+        ],
+        "correctAnswer": "W = V * A"
+    },
+    {
+        "question": "¿En qué situación se utiliza el ohmio (Ω) en un circuito?",
+        "options": [
+            "Para medir la potencia que consume el circuito",
+            "Para medir la intensidad de la corriente en el circuito",
+            "Para modificar o limitar el paso de corriente en un circuito",
+            "Para medir la tensión de la corriente eléctrica"
+        ],
+        "correctAnswer": "Para modificar o limitar el paso de corriente en un circuito"
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "question": "¿Qué es un sistema de numeración?",
+        "options": [
+            "Un conjunto de símbolos para representar valores numéricos",
+            "Una fórmula matemática",
+            "Un proceso lógico",
+            "Una operación binaria"
+        ],
+        "correctAnswer": "Un conjunto de símbolos para representar valores numéricos"
+    },
+    {
+        "question": "¿Cuál es un ejemplo de un sistema de numeración no posicional?",
+        "options": [
+            "Sistema decimal",
+            "Sistema binario",
+            "Numeración romana",
+            "Sistema hexadecimal"
+        ],
+        "correctAnswer": "Numeración romana"
+    },
+    {
+        "question": "En un sistema posicional, ¿qué representa el teorema fundamental de la numeración?",
+        "options": [
+            "La suma de los dígitos multiplicados por las potencias de la base",
+            "La multiplicación de todos los dígitos",
+            "La resta de los dígitos en cada posición",
+            "La división de los valores en potencias de dos"
+        ],
+        "correctAnswer": "La suma de los dígitos multiplicados por las potencias de la base"
+    },
+    {
+        "question": "¿En qué base numérica se encuentra el sistema binario?",
+        "options": [
+            "Base 8",
+            "Base 10",
+            "Base 2",
+            "Base 16"
+        ],
+        "correctAnswer": "Base 2"
+    },
+    {
+        "question": "¿Qué símbolos utiliza el sistema binario?",
+        "options": [
+            "0 y 1",
+            "0, 1, y 2",
+            "1 y 2",
+            "A y B"
+        ],
+        "correctAnswer": "0 y 1"
+    },
+    {
+        "question": "¿Cómo se llama la unidad mínima de información en el sistema binario?",
+        "options": [
+            "Bit",
+            "Byte",
+            "Octeto",
+            "Nibble"
+        ],
+        "correctAnswer": "Bit"
+    },
+    {
+        "question": "¿Cuál es la base del sistema octal?",
+        "options": [
+            "Base 2",
+            "Base 8",
+            "Base 10",
+            "Base 16"
+        ],
+        "correctAnswer": "Base 8"
+    },
+    {
+        "question": "¿Cuántos dígitos se necesitan en el sistema binario para representar un dígito en el sistema octal?",
+        "options": [
+            "1 dígito",
+            "2 dígitos",
+            "3 dígitos",
+            "4 dígitos"
+        ],
+        "correctAnswer": "3 dígitos"
+    },
+    {
+        "question": "¿Qué sistema de numeración utiliza los dígitos del 0 al 9 y las letras A a F?",
+        "options": [
+            "Sistema decimal",
+            "Sistema octal",
+            "Sistema hexadecimal",
+            "Sistema binario"
+        ],
+        "correctAnswer": "Sistema hexadecimal"
+    },
+    {
+        "question": "¿Cuál es el valor decimal del número binario 1010?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "12"
+        ],
+        "correctAnswer": "10"
+    },
+    {
+        "question": "¿Cómo se convierte un número binario a decimal?",
+        "options": [
+            "Sumando los dígitos multiplicados por potencias de dos",
+            "Multiplicando los dígitos por potencias de diez",
+            "Sumando los dígitos multiplicados por potencias de diez",
+            "Dividiendo entre dos"
+        ],
+        "correctAnswer": "Sumando los dígitos multiplicados por potencias de dos"
+    },
+    {
+        "question": "¿Cuál es el valor binario del número decimal 11?",
+        "options": [
+            "1100",
+            "1001",
+            "1011",
+            "1110"
+        ],
+        "correctAnswer": "1011"
+    },
+    {
+        "question": "¿Cómo se convierte un número decimal a binario?",
+        "options": [
+            "Dividiendo sucesivamente por 2 y tomando los restos",
+            "Multiplicando por 2",
+            "Sumando potencias de 10",
+            "Usando solo valores pares"
+        ],
+        "correctAnswer": "Dividiendo sucesivamente por 2 y tomando los restos"
+    },
+    {
+        "question": "En el sistema hexadecimal, ¿qué valor representa la letra A?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "correctAnswer": "10"
+    },
+    {
+        "question": "¿Cuál es el valor binario del número hexadecimal F?",
+        "options": [
+            "1111",
+            "1110",
+            "1101",
+            "1011"
+        ],
+        "correctAnswer": "1111"
+    },
+    {
+        "question": "Para convertir de hexadecimal a binario, ¿cuántos dígitos binarios se necesitan por cada dígito hexadecimal?",
+        "options": [
+            "1 dígito",
+            "2 dígitos",
+            "3 dígitos",
+            "4 dígitos"
+        ],
+        "correctAnswer": "4 dígitos"
+    },
+    {
+        "question": "¿Cuál es el valor decimal del número hexadecimal B3?",
+        "options": [
+            "179",
+            "160",
+            "128",
+            "183"
+        ],
+        "correctAnswer": "179"
+    },
+    {
+        "question": "¿Qué proceso se utiliza para convertir de octal a binario?",
+        "options": [
+            "Sustitución de cada dígito octal por su equivalente en 3 dígitos binarios",
+            "Sustitución de cada dígito octal por 4 dígitos binarios",
+            "Dividir entre 8 y tomar los restos",
+            "Multiplicación sucesiva por 2"
+        ],
+        "correctAnswer": "Sustitución de cada dígito octal por su equivalente en 3 dígitos binarios"
+    },
+    {
+        "question": "¿Cómo se representa el número decimal 255 en hexadecimal?",
+        "options": [
+            "EE",
+            "FF",
+            "AA",
+            "DD"
+        ],
+        "correctAnswer": "FF"
+    },
+    {
+        "question": "¿Cuál es el valor en decimal del número octal 127?",
+        "options": [
+            "87",
+            "84",
+            "80",
+            "63"
+        ],
+        "correctAnswer": "87"
+    },
+    {
+        "question": "¿Cuál es el valor binario del número decimal 18?",
+        "options": [
+            "10001",
+            "10010",
+            "10100",
+            "11000"
+        ],
+        "correctAnswer": "10010"
+    },
+    {
+        "question": "¿Cómo se representa el número hexadecimal 2A en decimal?",
+        "options": [
+            "42",
+            "38",
+            "46",
+            "50"
+        ],
+        "correctAnswer": "42"
+    },
+    {
+        "question": "¿Qué significa que un sistema de numeración es posicional?",
+        "options": [
+            "El valor de cada dígito depende de su posición",
+            "Cada símbolo tiene un valor fijo",
+            "No existen ceros",
+            "Es un sistema basado en letras"
+        ],
+        "correctAnswer": "El valor de cada dígito depende de su posición"
+    },
+    {
+        "question": "En el sistema hexadecimal, ¿qué valor tiene el dígito 'D' en decimal?",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "correctAnswer": "13"
+    },
+    {
+        "question": "¿Cuál es el valor decimal del número binario 1110?",
+        "options": [
+            "13",
+            "14",
+            "15",
+            "16"
+        ],
+        "correctAnswer": "14"
+    },
+    {
+        "question": "¿Qué base utiliza el sistema hexadecimal?",
+        "options": [
+            "Base 8",
+            "Base 10",
+            "Base 12",
+            "Base 16"
+        ],
+        "correctAnswer": "Base 16"
+    },
+    {
+        "question": "¿Cuál es el valor en hexadecimal del número binario 1011?",
+        "options": [
+            "B",
+            "A",
+            "C",
+            "D"
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "question": "¿Cuál es el valor en binario del número octal 7?",
+        "options": [
+            "011",
+            "111",
+            "101",
+            "110"
+        ],
+        "correctAnswer": "111"
+    },
+    {
+        "question": "¿Qué valor en decimal tiene el número octal 64?",
+        "options": [
+            "52",
+            "53",
+            "54",
+            "56"
+        ],
+        "correctAnswer": "52"
+    },
+    {
+        "question": "¿Qué número en decimal representa el binario 11001?",
+        "options": [
+            "24",
+            "25",
+            "26",
+            "27"
+        ],
+        "correctAnswer": "25"
+    },
+    {
+        "question": "¿Cómo se agrupan los números binarios para convertirlos a hexadecimal?",
+        "options": [
+            "En grupos de 2 dígitos",
+            "En grupos de 3 dígitos",
+            "En grupos de 4 dígitos",
+            "En grupos de 5 dígitos"
+        ],
+        "correctAnswer": "En grupos de 4 dígitos"
+    },
+    {
+        "question": "¿Qué ocurre si faltan dígitos en el grupo de 4 al convertir de binario a hexadecimal?",
+        "options": [
+            "Se añaden ceros a la derecha",
+            "Se añaden ceros a la izquierda",
+            "Se deja el grupo incompleto",
+            "Se multiplica por 2"
+        ],
+        "correctAnswer": "Se añaden ceros a la izquierda"
+    },
+    {
+        "question": "¿Cuál es el valor hexadecimal del número binario 1010?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "Convertir el número binario 1101 en hexadecimal resulta en:",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correctAnswer": "D"
+    },
+    {
+        "question": "¿Cuál es el equivalente en hexadecimal del número binario 1111?",
+        "options": [
+            "7",
+            "8",
+            "E",
+            "F"
+        ],
+        "correctAnswer": "F"
+    }
+]

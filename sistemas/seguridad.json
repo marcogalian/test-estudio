@@ -1,0 +1,112 @@
+[
+    {
+        "question": "¿Cuál es la postura correcta al sentarse frente al ordenador para evitar problemas de espalda?",
+        "options": [
+            "Sentarse con la espalda encorvada",
+            "Sentarse con la espalda recta y apoyada en el respaldo",
+            "Sentarse en el borde de la silla",
+            "Sentarse con las piernas estiradas"
+        ],
+        "correctAnswer": "Sentarse con la espalda recta y apoyada en el respaldo"
+    },
+    {
+        "question": "¿Cuál es la distancia recomendada entre los ojos y la pantalla del ordenador?",
+        "options": [
+            "10-20 cm",
+            "30-50 cm",
+            "45-75 cm",
+            "80-100 cm"
+        ],
+        "correctAnswer": "45-75 cm"
+    },
+    {
+        "question": "¿Cuál es la manera correcta de levantar peso para evitar lesiones en la espalda?",
+        "options": [
+            "Levantar el peso doblando la espalda",
+            "Levantar el peso flexionando las rodillas y manteniendo la espalda recta",
+            "Levantar el peso desde una posición de pie sin doblar las rodillas",
+            "Levantar el peso rápidamente para evitar cansancio"
+        ],
+        "correctAnswer": "Levantar el peso flexionando las rodillas y manteniendo la espalda recta"
+    },
+    {
+        "question": "¿Qué medida de seguridad es recomendada al realizar conexiones eléctricas?",
+        "options": [
+            "Usar enchufes múltiples sobrecargados",
+            "Usar regletas con protección contra sobrecargas",
+            "Conectar varios adaptadores en un solo enchufe",
+            "Conectar todos los dispositivos en un solo enchufe"
+        ],
+        "correctAnswer": "Usar regletas con protección contra sobrecargas"
+    },
+    {
+        "question": "¿Qué es importante hacer antes de manipular el interior de un equipo informático?",
+        "options": [
+            "Dejar el equipo conectado a la corriente",
+            "Usar herramientas no adecuadas",
+            "Desconectar el equipo de la red eléctrica",
+            "Encender el equipo para probar cambios"
+        ],
+        "correctAnswer": "Desconectar el equipo de la red eléctrica"
+    },
+    {
+        "question": "¿Qué normativa regula la gestión de residuos de aparatos eléctricos y electrónicos en España?",
+        "options": [
+            "Real Decreto 110/2015",
+            "Ley de Protección del Medio Ambiente",
+            "Normativa Europea de Reciclaje",
+            "Código de Residuos Electrónicos"
+        ],
+        "correctAnswer": "Real Decreto 110/2015"
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la normativa sobre residuos electrónicos?",
+        "options": [
+            "Proteger el medio ambiente y la salud humana",
+            "Reducir el consumo de electricidad",
+            "Aumentar el reciclaje de papel",
+            "Fomentar el uso de dispositivos antiguos"
+        ],
+        "correctAnswer": "Proteger el medio ambiente y la salud humana"
+    },
+    {
+        "question": "¿Cuál es la inclinación recomendada de la pantalla del ordenador para reducir la fatiga visual?",
+        "options": [
+            "0-10 grados",
+            "10-20 grados",
+            "20-30 grados",
+            "30-40 grados"
+        ],
+        "correctAnswer": "10-20 grados"
+    },
+    {
+        "question": "¿A qué altura debe estar la parte superior de la pantalla en relación con los ojos?",
+        "options": [
+            "A la misma altura de los ojos",
+            "Por encima de la línea de los ojos",
+            "Por debajo de la línea de los ojos",
+            "No importa la altura"
+        ],
+        "correctAnswer": "A la misma altura de los ojos"
+    },
+    {
+        "question": "¿Qué tipo de procesador es común en dispositivos móviles debido a su bajo consumo de energía?",
+        "options": [
+            "Procesadores Intel x86",
+            "Procesadores ARM",
+            "Procesadores AMD64",
+            "Procesadores Xeon"
+        ],
+        "correctAnswer": "Procesadores ARM"
+    },
+    {
+        "question": "¿Cuál es el propósito del mantenimiento preventivo en equipos informáticos?",
+        "options": [
+            "Corregir fallos después de que ocurran",
+            "Prevenir el desgaste del software",
+            "Evitar averías a través de la limpieza y protección del equipo",
+            "Aumentar la velocidad del equipo mediante actualizaciones de software"
+        ],
+        "correctAnswer": "Evitar averías a través de la limpieza y protección del equipo"
+    }
+]

@@ -1,0 +1,922 @@
+[
+    {
+        "question": "¿Cuál es el componente central que se encarga de las comunicaciones entre los distintos componentes de la placa base?",
+        "options": [
+            "CPU",
+            "Chipset",
+            "Memoria",
+            "Tarjeta gráfica"
+        ],
+        "correctAnswer": "Chipset"
+    },
+    {
+        "question": "¿Cuál es la función del Chipset en un sistema informático?",
+        "options": [
+            "Gestionar la memoria RAM",
+            "Controlar los dispositivos de audio",
+            "Encargarse de las comunicaciones entre componentes",
+            "Proporcionar energía a la CPU"
+        ],
+        "correctAnswer": "Encargarse de las comunicaciones entre componentes"
+    },
+    {
+        "question": "¿Cuál de estos es un conector para la tarjeta gráfica?",
+        "options": [
+            "ATX de 24 pines",
+            "SATA",
+            "Conector de 6 u 8 pines",
+            "Conector EPS de 8 pines"
+        ],
+        "correctAnswer": "Conector de 6 u 8 pines"
+    },
+    {
+        "question": "¿Qué tipo de fuente de alimentación permite agregar cables según se necesitan?",
+        "options": [
+            "Modular",
+            "Integrada",
+            "Externa",
+            "De baja potencia"
+        ],
+        "correctAnswer": "Modular"
+    },
+    {
+        "question": "¿Cuál es la principal función de la fuente de alimentación en un ordenador?",
+        "options": [
+            "Convertir corriente alterna en corriente continua",
+            "Aumentar la capacidad de la memoria",
+            "Proveer almacenamiento adicional",
+            "Enfriar la CPU"
+        ],
+        "correctAnswer": "Convertir corriente alterna en corriente continua"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un conector obsoleto para dispositivos de almacenamiento?",
+        "options": [
+            "SATA",
+            "Molex",
+            "PCIe",
+            "EPS de 8 pines"
+        ],
+        "correctAnswer": "Molex"
+    },
+    {
+        "question": "¿Qué componente se usa para almacenar de forma permanente el firmware del sistema?",
+        "options": [
+            "Chipset",
+            "BIOS/UEFI",
+            "Tarjeta gráfica",
+            "Memoria RAM"
+        ],
+        "correctAnswer": "BIOS/UEFI"
+    },
+    {
+        "question": "¿Qué tipo de memoria está directamente conectada con la CPU para un acceso rápido?",
+        "options": [
+            "Memoria RAM",
+            "Disco duro",
+            "Chipset",
+            "Tarjeta gráfica"
+        ],
+        "correctAnswer": "Memoria RAM"
+    },
+    {
+        "question": "¿Cuál es el propósito del conector de alimentación ATX de 24 pines?",
+        "options": [
+            "Conectar la tarjeta gráfica",
+            "Alimentar la placa base",
+            "Conectar el almacenamiento externo",
+            "Proveer energía al procesador"
+        ],
+        "correctAnswer": "Alimentar la placa base"
+    },
+    {
+        "question": "¿Qué se conecta en las ranuras de expansión PCIe en la placa base?",
+        "options": [
+            "Conector de 8 pines",
+            "Tarjetas adicionales (gráfica, sonido)",
+            "Dispositivos de almacenamiento IDE",
+            "Conector ATX de 24 pines"
+        ],
+        "correctAnswer": "Tarjetas adicionales (gráfica, sonido)"
+    },
+    {
+        "question": "¿Qué función tiene el botón de encendido/apagado en una carcasa de ordenador?",
+        "options": [
+            "Controlar la velocidad del ventilador",
+            "Conectar la fuente de alimentación",
+            "Activar el sistema",
+            "Conectar dispositivos USB"
+        ],
+        "correctAnswer": "Activar el sistema"
+    },
+    {
+        "question": "¿Qué tipo de carcasa se utiliza para ordenadores compactos?",
+        "options": [
+            "Barebone",
+            "Semitorre",
+            "Desktop",
+            "All in one"
+        ],
+        "correctAnswer": "Barebone"
+    },
+    {
+        "question": "¿Qué se almacena en la pila de la CMOS en la placa base?",
+        "options": [
+            "La configuración del BIOS",
+            "Archivos temporales",
+            "El sistema operativo",
+            "Datos de usuario"
+        ],
+        "correctAnswer": "La configuración del BIOS"
+    },
+    {
+        "question": "¿Qué tipo de conector se utiliza para conectar dispositivos de almacenamiento internos modernos?",
+        "options": [
+            "IDE",
+            "SATA",
+            "Molex",
+            "ATX"
+        ],
+        "correctAnswer": "SATA"
+    },
+    {
+        "question": "¿Qué indica el término 'Slim' en referencia a una carcasa?",
+        "options": [
+            "Una carcasa de tamaño reducido",
+            "Una carcasa de alta potencia",
+            "Una carcasa modular",
+            "Una carcasa para portátiles"
+        ],
+        "correctAnswer": "Una carcasa de tamaño reducido"
+    },
+    {
+        "question": "¿Qué elemento es fundamental para la disipación de calor en la carcasa de un ordenador?",
+        "options": [
+            "Ventilador de la CPU",
+            "Conector ATX",
+            "Conector SATA",
+            "Chipset"
+        ],
+        "correctAnswer": "Ventilador de la CPU"
+    },
+    {
+        "question": "¿Qué tipo de conector proporciona energía directamente al procesador?",
+        "options": [
+            "EPS de 8 pines",
+            "Molex",
+            "PCIe",
+            "SATA"
+        ],
+        "correctAnswer": "EPS de 8 pines"
+    },
+    {
+        "question": "¿Qué conector ha sustituido al antiguo conector Molex para discos duros?",
+        "options": [
+            "SATA",
+            "PCIe",
+            "ATX",
+            "USB"
+        ],
+        "correctAnswer": "SATA"
+    },
+    {
+        "question": "¿Qué tipo de memoria permite almacenar configuraciones del sistema de forma permanente?",
+        "options": [
+            "CMOS",
+            "RAM",
+            "Chipset",
+            "CPU"
+        ],
+        "correctAnswer": "CMOS"
+    },
+    {
+        "question": "¿Qué tipo de fuente de alimentación es ideal para equipos con múltiples componentes?",
+        "options": [
+            "Modular",
+            "Integrada",
+            "Externa",
+            "De baja potencia"
+        ],
+        "correctAnswer": "Modular"
+    },
+    {
+        "question": "¿Cuál es la función del chipset en una placa base?",
+        "options": [
+            "Coordinar las comunicaciones entre CPU y otros componentes",
+            "Almacenar el sistema operativo",
+            "Disipar el calor de la CPU",
+            "Proveer energía al sistema"
+        ],
+        "correctAnswer": "Coordinar las comunicaciones entre CPU y otros componentes"
+    },
+    {
+        "question": "¿Qué factor es importante para elegir una carcasa de ordenador?",
+        "options": [
+            "Tamaño de la placa base y fuente de alimentación",
+            "Cantidad de memoria RAM",
+            "Velocidad de la CPU",
+            "Tipo de sistema operativo"
+        ],
+        "correctAnswer": "Tamaño de la placa base y fuente de alimentación"
+    },
+    {
+        "question": "¿Qué tipo de conector usa la tarjeta gráfica moderna para conectarse a la fuente de alimentación?",
+        "options": [
+            "Molex",
+            "SATA",
+            "Conector de 6 u 8 pines",
+            "Conector ATX de 24 pines"
+        ],
+        "correctAnswer": "Conector de 6 u 8 pines"
+    },
+    {
+        "question": "¿Dónde se encuentra el chipset en la placa base?",
+        "options": [
+            "Cerca del procesador y las ranuras PCIe",
+            "Dentro de la CPU",
+            "En la tarjeta gráfica",
+            "Conectado al ventilador"
+        ],
+        "correctAnswer": "Cerca del procesador y las ranuras PCIe"
+    },
+    {
+        "question": "¿Qué permite la estructura modular en algunas fuentes de alimentación?",
+        "options": [
+            "Conectar solo los cables necesarios",
+            "Reducir el consumo de energía",
+            "Mejorar el rendimiento gráfico",
+            "Almacenar configuraciones de BIOS"
+        ],
+        "correctAnswer": "Conectar solo los cables necesarios"
+    }, 
+    {
+        "question": "¿Qué tipo de memoria RAM se utiliza principalmente en servidores y estaciones de trabajo debido a su capacidad de detectar y corregir errores?",
+        "options": [
+            "Memoria ECC",
+            "Memoria no ECC",
+            "Memoria SDRAM",
+            "Memoria DRAM"
+        ],
+        "correctAnswer": "Memoria ECC"
+    },
+    {
+        "question": "¿Qué característica principal tiene la memoria estática (SRAM) en comparación con la memoria dinámica (DRAM)?",
+        "options": [
+            "Es más lenta pero más barata",
+            "No necesita actualización y es más rápida",
+            "Requiere ciclos de refresco",
+            "Es volátil y menos confiable"
+        ],
+        "correctAnswer": "No necesita actualización y es más rápida"
+    },
+    {
+        "question": "¿Cuál es una de las desventajas principales de la memoria DRAM en comparación con la SRAM?",
+        "options": [
+            "Necesita ciclos de refresco",
+            "Es más costosa",
+            "No es volátil",
+            "Se usa solo en servidores"
+        ],
+        "correctAnswer": "Necesita ciclos de refresco"
+    },
+    {
+        "question": "¿Qué módulo de memoria RAM tiene 288 pines y se usa en computadoras modernas?",
+        "options": [
+            "DDR4 DIMM",
+            "DDR5 DIMM",
+            "DDR3 SODIMM",
+            "DDR2 DIMM"
+        ],
+        "correctAnswer": "DDR5 DIMM"
+    },
+    {
+        "question": "¿Qué significa DDR en el contexto de la memoria RAM?",
+        "options": [
+            "Double Data Rate",
+            "Dynamic Data Rate",
+            "Dual Data Register",
+            "Dual Data Receiver"
+        ],
+        "correctAnswer": "Double Data Rate"
+    },
+    {
+        "question": "¿Qué tipo de memoria RAM es más utilizada actualmente en computadoras personales y portátiles?",
+        "options": [
+            "DDR3",
+            "DDR4",
+            "DDR5",
+            "SRAM"
+        ],
+        "correctAnswer": "DDR4"
+    },
+    {
+        "question": "¿Qué tipo de memoria RAM tiene contactos de memoria en ambos lados, no conectados entre sí?",
+        "options": [
+            "DIMM",
+            "SIMM",
+            "SODIMM",
+            "DIP"
+        ],
+        "correctAnswer": "DIMM"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un factor de forma utilizado en portátiles debido a su menor tamaño?",
+        "options": [
+            "SODIMM",
+            "DIMM",
+            "DIP",
+            "SRAM"
+        ],
+        "correctAnswer": "SODIMM"
+    },
+    {
+        "question": "¿Qué tipo de memoria RAM tiene una frecuencia base de 2400-3600 MHz y un ancho de banda de 38.4 – 57.6 GB/s?",
+        "options": [
+            "DDR3",
+            "DDR4",
+            "DDR5",
+            "SRAM"
+        ],
+        "correctAnswer": "DDR5"
+    },
+    {
+        "question": "¿Cuál es la característica principal de la memoria ECC?",
+        "options": [
+            "Detecta y corrige errores",
+            "Es la más rápida",
+            "No necesita refresco",
+            "Es la más barata"
+        ],
+        "correctAnswer": "Detecta y corrige errores"
+    },
+    {
+        "question": "¿Qué tipo de memoria RAM no está diseñada para corregir errores y es utilizada comúnmente en entornos domésticos?",
+        "options": [
+            "Memoria ECC",
+            "Memoria no ECC",
+            "Memoria SRAM",
+            "Memoria DRAM"
+        ],
+        "correctAnswer": "Memoria no ECC"
+    },
+    {
+        "question": "¿Cuál es el número de pines en un módulo DDR4 DIMM estándar?",
+        "options": [
+            "240",
+            "288",
+            "204",
+            "260"
+        ],
+        "correctAnswer": "288"
+    },
+    {
+        "question": "¿Qué factor de forma de memoria RAM tiene 168 pines y es utilizado en módulos SDRAM?",
+        "options": [
+            "SIMM",
+            "DIMM",
+            "SODIMM",
+            "DIP"
+        ],
+        "correctAnswer": "DIMM"
+    },
+    {
+        "question": "¿Qué tipo de memoria se considera volátil y almacena datos y programas que se están utilizando?",
+        "options": [
+            "RAM",
+            "ROM",
+            "Cache",
+            "Memoria secundaria"
+        ],
+        "correctAnswer": "RAM"
+    },
+    {
+        "question": "¿Cuál de los siguientes módulos es utilizado en portátiles y tiene un menor tamaño que el DIMM?",
+        "options": [
+            "SODIMM",
+            "SIMM",
+            "SRAM",
+            "RIMM"
+        ],
+        "correctAnswer": "SODIMM"
+    },
+    {
+        "question": "¿Cuál es la función principal del disipador en la CPU?",
+        "options": [
+            "Aumentar la velocidad del procesador",
+            "Reducir el calor generado por la CPU",
+            "Almacenar datos temporalmente",
+            "Controlar la frecuencia de la CPU"
+        ],
+        "correctAnswer": "Reducir el calor generado por la CPU"
+    },
+    {
+        "question": "¿Qué técnica permite aumentar la frecuencia de la CPU para mejorar su rendimiento?",
+        "options": [
+            "Underclocking",
+            "Overclocking",
+            "Caching",
+            "Multithreading"
+        ],
+        "correctAnswer": "Overclocking"
+    },
+    {
+        "question": "¿Qué tipo de memoria RAM se utiliza principalmente en servidores y workstations debido a su capacidad de corrección de errores?",
+        "options": [
+            "Memoria no ECC",
+            "Memoria SDRAM",
+            "Memoria ECC",
+            "Memoria DRAM"
+        ],
+        "correctAnswer": "Memoria ECC"
+    },
+    {
+        "question": "¿Qué característica distingue a la memoria caché de la memoria RAM?",
+        "options": [
+            "Es más rápida y se encuentra cerca de la CPU",
+            "Almacena datos de forma permanente",
+            "Tiene mayor capacidad de almacenamiento",
+            "Es volátil y necesita refrescarse constantemente"
+        ],
+        "correctAnswer": "Es más rápida y se encuentra cerca de la CPU"
+    },
+    {
+        "question": "¿Cuántos niveles de memoria caché suelen encontrarse en una CPU moderna?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "¿Cuál es la diferencia principal entre un disco HDD y un SSD?",
+        "options": [
+            "El HDD utiliza tecnología flash y el SSD usa discos magnéticos",
+            "El HDD es más rápido que el SSD",
+            "El SSD utiliza tecnología flash y el HDD usa discos magnéticos",
+            "El SSD es menos duradero que el HDD"
+        ],
+        "correctAnswer": "El SSD utiliza tecnología flash y el HDD usa discos magnéticos"
+    },
+    {
+        "question": "¿Qué tipo de memoria RAM requiere ciclos de refresco para no perder información?",
+        "options": [
+            "Memoria estática (SRAM)",
+            "Memoria dinámica (DRAM)",
+            "Memoria ECC",
+            "Memoria ROM"
+        ],
+        "correctAnswer": "Memoria dinámica (DRAM)"
+    },
+    {
+        "question": "¿Cuál es la función de los núcleos en una CPU?",
+        "options": [
+            "Reducir el calor de la CPU",
+            "Ejecutar instrucciones de manera simultánea",
+            "Almacenar instrucciones de manera temporal",
+            "Proporcionar energía a la CPU"
+        ],
+        "correctAnswer": "Ejecutar instrucciones de manera simultánea"
+    },
+    {
+        "question": "¿Qué tipo de conector ha reemplazado al conector molex para la alimentación de dispositivos?",
+        "options": [
+            "Conector ATX",
+            "Conector PCIe",
+            "Conector EPS",
+            "Conector SATA"
+        ],
+        "correctAnswer": "Conector SATA"
+    },
+    {
+        "question": "¿Qué tipo de memoria auxiliar se utiliza en dispositivos como cámaras y teléfonos móviles?",
+        "options": [
+            "HDD",
+            "Memoria ROM",
+            "Memoria RAM",
+            "Tarjetas SD"
+        ],
+        "correctAnswer": "Tarjetas SD"
+    },
+    {
+        "question": "¿Cuál es una ventaja de las fuentes de alimentación modulares?",
+        "options": [
+            "Son más económicas",
+            "Permiten añadir cables según se necesiten",
+            "Tienen más potencia que las no modulares",
+            "Son más ligeras"
+        ],
+        "correctAnswer": "Permiten añadir cables según se necesiten"
+    },
+    {
+        "question": "¿Qué tipo de memoria se usa para almacenar el firmware en un ordenador?",
+        "options": [
+            "Memoria RAM",
+            "Memoria ROM",
+            "Memoria caché",
+            "Memoria SDRAM"
+        ],
+        "correctAnswer": "Memoria ROM"
+    },
+    {
+        "question": "¿Qué significa RAID?",
+        "options": [
+            "Redundant Array of Independent Disks",
+            "Random Access Information Data",
+            "Redundant Access Information Devices",
+            "Rapid Array of Independent Disks"
+        ],
+        "correctAnswer": "Redundant Array of Independent Disks"
+    },
+    {
+        "question": "¿Cuál es el objetivo principal del nivel RAID 0?",
+        "options": [
+            "Mejorar el rendimiento",
+            "Tolerancia a fallos",
+            "Duplicar datos",
+            "Reducir el coste de almacenamiento"
+        ],
+        "correctAnswer": "Mejorar el rendimiento"
+    },
+    {
+        "question": "¿Cuántos discos como mínimo necesita RAID 0?",
+        "options": [
+            "Uno",
+            "Dos",
+            "Tres",
+            "Cuatro"
+        ],
+        "correctAnswer": "Dos"
+    },
+    {
+        "question": "¿Qué característica NO tiene RAID 0?",
+        "options": [
+            "Distribución de datos",
+            "Alta velocidad de transmisión",
+            "Tolerancia a fallos",
+            "Mínimo dos discos físicos"
+        ],
+        "correctAnswer": "Tolerancia a fallos"
+    },
+    {
+        "question": "¿Cuál es el objetivo principal del nivel RAID 1?",
+        "options": [
+            "Duplicar datos para tolerancia a fallos",
+            "Mejorar el rendimiento",
+            "Almacenar grandes volúmenes de datos",
+            "Reducir la velocidad de transmisión"
+        ],
+        "correctAnswer": "Duplicar datos para tolerancia a fallos"
+    },
+    {
+        "question": "¿Cuántos discos como mínimo necesita RAID 1?",
+        "options": [
+            "Uno",
+            "Dos",
+            "Tres",
+            "Cuatro"
+        ],
+        "correctAnswer": "Dos"
+    },
+    {
+        "question": "¿Qué tipo de redundancia ofrece RAID 1?",
+        "options": [
+            "Volumen distribuido",
+            "Volumen reflejado",
+            "Stripe con paridad",
+            "Almacenamiento de datos sin redundancia"
+        ],
+        "correctAnswer": "Volumen reflejado"
+    },
+    {
+        "question": "¿Cuál es el objetivo principal del nivel RAID 5?",
+        "options": [
+            "Aumentar el rendimiento y tolerancia a fallos",
+            "Duplicar los datos",
+            "Reducir la velocidad de transmisión",
+            "Mejorar la capacidad de almacenamiento"
+        ],
+        "correctAnswer": "Aumentar el rendimiento y tolerancia a fallos"
+    },
+    {
+        "question": "¿Cuántos discos como mínimo necesita RAID 5?",
+        "options": [
+            "Dos",
+            "Tres",
+            "Cuatro",
+            "Cinco"
+        ],
+        "correctAnswer": "Tres"
+    },
+    {
+        "question": "¿Qué tipo de almacenamiento utiliza RAID 5?",
+        "options": [
+            "Distribución con paridad",
+            "Distribución sin paridad",
+            "Duplicación de datos",
+            "Almacenamiento independiente"
+        ],
+        "correctAnswer": "Distribución con paridad"
+    },
+    {
+        "question": "¿Cuál es el objetivo principal del nivel RAID 6?",
+        "options": [
+            "Mejorar la capacidad de almacenamiento",
+            "Tolerancia a fallos avanzada",
+            "Duplicar los datos",
+            "Reducir el coste de almacenamiento"
+        ],
+        "correctAnswer": "Tolerancia a fallos avanzada"
+    },
+    {
+        "question": "¿Cuántos discos como mínimo necesita RAID 6?",
+        "options": [
+            "Dos",
+            "Tres",
+            "Cuatro",
+            "Cinco"
+        ],
+        "correctAnswer": "Cuatro"
+    },
+    {
+        "question": "¿En qué se diferencia RAID 6 de RAID 5?",
+        "options": [
+            "RAID 6 utiliza dos bloques de paridad",
+            "RAID 6 no tiene tolerancia a fallos",
+            "RAID 6 requiere menos discos",
+            "RAID 6 utiliza duplicación de datos"
+        ],
+        "correctAnswer": "RAID 6 utiliza dos bloques de paridad"
+    },
+    {
+        "question": "¿Qué combinación utiliza RAID 10?",
+        "options": [
+            "RAID 0 y RAID 1",
+            "RAID 5 y RAID 1",
+            "RAID 0 y RAID 6",
+            "RAID 5 y RAID 6"
+        ],
+        "correctAnswer": "RAID 0 y RAID 1"
+    },
+    {
+        "question": "¿Cuál es la característica principal de un RAID anidado como RAID 10?",
+        "options": [
+            "Combina volumen distribuido y reflejado",
+            "Ofrece mayor rendimiento que RAID 0",
+            "Ofrece tolerancia a fallos sin redundancia",
+            "Utiliza solo un disco físico"
+        ],
+        "correctAnswer": "Combina volumen distribuido y reflejado"
+    },
+    {
+        "question": "¿Qué es la paridad en un sistema RAID?",
+        "options": [
+            "Un mecanismo para mejorar la tolerancia a fallos",
+            "Una forma de duplicar datos",
+            "Una técnica para reducir costes",
+            "Una forma de mejorar la velocidad"
+        ],
+        "correctAnswer": "Un mecanismo para mejorar la tolerancia a fallos"
+    },
+    {
+        "question": "¿Qué nivel de RAID es recomendado para aplicaciones que requieren alta tolerancia a fallos y rendimiento?",
+        "options": [
+            "RAID 0",
+            "RAID 1",
+            "RAID 5",
+            "RAID 6"
+        ],
+        "correctAnswer": "RAID 5"
+    },
+    {
+        "question": "¿Cuál es una desventaja de RAID 1?",
+        "options": [
+            "Mayor uso de almacenamiento",
+            "Sin tolerancia a fallos",
+            "Rendimiento bajo",
+            "No requiere duplicación de datos"
+        ],
+        "correctAnswer": "Mayor uso de almacenamiento"
+    },
+    {
+        "question": "¿Cuál de los siguientes niveles de RAID es el más adecuado para almacenamiento de gran capacidad sin redundancia?",
+        "options": [
+            "RAID 0",
+            "RAID 1",
+            "RAID 5",
+            "RAID 6"
+        ],
+        "correctAnswer": "RAID 0"
+    },
+    {
+        "question": "¿Cuál es la principal ventaja de utilizar un sistema RAID anidado como RAID 01 o RAID 10?",
+        "options": [
+            "Combinación de rendimiento y tolerancia a fallos",
+            "Menor coste de implementación",
+            "Mayor capacidad de almacenamiento",
+            "Reducción en el uso de discos físicos"
+        ],
+        "correctAnswer": "Combinación de rendimiento y tolerancia a fallos"
+    }, 
+    {
+        "question": "¿Qué componente envía la información necesaria para visualizar en el monitor?",
+        "options": [
+            "Tarjeta gráfica",
+            "Tarjeta de red",
+            "CPU",
+            "Disco duro"
+        ],
+        "correctAnswer": "Tarjeta gráfica"
+    },
+    {
+        "question": "¿Cuál de estos puertos es comúnmente utilizado para la salida de video en tarjetas gráficas?",
+        "options": [
+            "VGA",
+            "USB",
+            "Ethernet",
+            "SATA"
+        ],
+        "correctAnswer": "VGA"
+    },
+    {
+        "question": "¿Cuál es la función principal de una tarjeta de red?",
+        "options": [
+            "Conectar el ordenador a una red",
+            "Almacenar datos",
+            "Aumentar la capacidad gráfica",
+            "Controlar la velocidad del sistema"
+        ],
+        "correctAnswer": "Conectar el ordenador a una red"
+    },
+    {
+        "question": "¿Qué información contiene la dirección MAC de una tarjeta de red?",
+        "options": [
+            "Una dirección física única",
+            "La IP del equipo",
+            "La configuración de red",
+            "La velocidad de conexión"
+        ],
+        "correctAnswer": "Una dirección física única"
+    },
+    {
+        "question": "¿Cuál es la diferencia principal entre los diferentes tipos de ranuras PCIe?",
+        "options": [
+            "El número de carriles y pines",
+            "La capacidad de almacenamiento",
+            "El tamaño físico de la ranura",
+            "La generación del chipset"
+        ],
+        "correctAnswer": "El número de carriles y pines"
+    },
+    {
+        "question": "¿Cuál es el propósito de los conectores externos en una placa base?",
+        "options": [
+            "Permitir la conexión de periféricos externos",
+            "Almacenar información de usuario",
+            "Aumentar la memoria RAM",
+            "Enfriar la CPU"
+        ],
+        "correctAnswer": "Permitir la conexión de periféricos externos"
+    },
+    {
+        "question": "¿Qué tipo de periférico se utiliza para introducir información en el ordenador?",
+        "options": [
+            "Periférico de entrada",
+            "Periférico de salida",
+            "Periférico de almacenamiento",
+            "Periférico de transferencia"
+        ],
+        "correctAnswer": "Periférico de entrada"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un periférico de salida?",
+        "options": [
+            "Impresora",
+            "Ratón",
+            "Teclado",
+            "Escáner"
+        ],
+        "correctAnswer": "Impresora"
+    },
+    {
+        "question": "¿Qué tipo de hardware suelen utilizar los dispositivos móviles para reducir el consumo de energía?",
+        "options": [
+            "Microprocesadores ARM",
+            "Procesadores x86",
+            "Tarjetas gráficas dedicadas",
+            "Discos duros mecánicos"
+        ],
+        "correctAnswer": "Microprocesadores ARM"
+    },
+    {
+        "question": "¿Cuál es el propósito del mantenimiento preventivo en un sistema informático?",
+        "options": [
+            "Evitar averías y preservar el equipo en condiciones óptimas",
+            "Mejorar la velocidad de la CPU",
+            "Aumentar la memoria RAM",
+            "Reducir el consumo de energía"
+        ],
+        "correctAnswer": "Evitar averías y preservar el equipo en condiciones óptimas"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un ejemplo de mantenimiento activo?",
+        "options": [
+            "Limpieza y renovación de pasta térmica",
+            "Instalación de software",
+            "Actualización de drivers",
+            "Cambio de dirección MAC"
+        ],
+        "correctAnswer": "Limpieza y renovación de pasta térmica"
+    },
+    {
+        "question": "¿Qué herramienta se utiliza para verificar el funcionamiento de la fuente de alimentación?",
+        "options": [
+            "Medidor de alimentación",
+            "Destornillador",
+            "Multímetro",
+            "Soldador de estaño"
+        ],
+        "correctAnswer": "Medidor de alimentación"
+    },
+    {
+        "question": "¿Qué proceso realiza el ordenador para verificar el hardware al iniciar?",
+        "options": [
+            "POST (Power-On Self-Test)",
+            "UEFI",
+            "BIOS",
+            "CMOS"
+        ],
+        "correctAnswer": "POST (Power-On Self-Test)"
+    },
+    {
+        "question": "¿Qué chip contiene la configuración de la BIOS/UEFI y requiere una batería para mantenerla?",
+        "options": [
+            "CMOS",
+            "CPU",
+            "RAM",
+            "Tarjeta gráfica"
+        ],
+        "correctAnswer": "CMOS"
+    },
+    {
+        "question": "¿Qué tecla suele utilizarse para acceder a la BIOS/UEFI durante el arranque?",
+        "options": [
+            "Supr",
+            "Alt",
+            "Ctrl",
+            "Esc"
+        ],
+        "correctAnswer": "Supr"
+    },
+    {
+        "question": "¿Qué permite realizar el acceso a la BIOS/UEFI en un sistema?",
+        "options": [
+            "Cambiar la unidad de arranque",
+            "Instalar software",
+            "Aumentar la RAM",
+            "Conectar a la red Wi-Fi"
+        ],
+        "correctAnswer": "Cambiar la unidad de arranque"
+    },
+    {
+        "question": "¿Cuál es la función del bootloader en el arranque de un sistema?",
+        "options": [
+            "Cargar el sistema operativo",
+            "Realizar pruebas de hardware",
+            "Aumentar la frecuencia de la CPU",
+            "Detectar periféricos conectados"
+        ],
+        "correctAnswer": "Cargar el sistema operativo"
+    },
+    {
+        "question": "¿Qué mantenimiento ayuda a proteger el equipo de picos de energía?",
+        "options": [
+            "Uso de un SAI (Sistema de Alimentación Ininterrumpida)",
+            "Limpieza de los ventiladores",
+            "Cambio de pasta térmica",
+            "Ajuste de la frecuencia de la CPU"
+        ],
+        "correctAnswer": "Uso de un SAI (Sistema de Alimentación Ininterrumpida)"
+    },
+    {
+        "question": "¿Cuál de los siguientes cables es necesario para conectar un periférico de vídeo a la placa base?",
+        "options": [
+            "HDMI",
+            "SATA",
+            "Ethernet",
+            "USB-C"
+        ],
+        "correctAnswer": "HDMI"
+    },
+    {
+        "question": "¿Qué componente en un dispositivo móvil ayuda a reducir la necesidad de sistemas de refrigeración?",
+        "options": [
+            "Procesadores ARM",
+            "Tarjetas gráficas dedicadas",
+            "Memoria DDR4",
+            "Disco duro SSD"
+        ],
+        "correctAnswer": "Procesadores ARM"
+    }
+]

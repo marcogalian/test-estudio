@@ -1,0 +1,172 @@
+[
+    {
+        "question": "¿Cuál de los siguientes es un ejemplo de software de base o de sistema?",
+        "options": [
+            "Microsoft Word",
+            "Windows",
+            "Google Chrome",
+            "Eclipse"
+        ],
+        "correctAnswer": "Windows"
+    },
+    {
+        "question": "¿Qué tipo de software permite crear programas y aplicaciones?",
+        "options": [
+            "Software de aplicación",
+            "Software libre",
+            "Software de programación",
+            "Software de sistema"
+        ],
+        "correctAnswer": "Software de programación"
+    },
+    {
+        "question": "¿Cuál de estos es un ejemplo de software de aplicación?",
+        "options": [
+            "Linux",
+            "SQL Developer",
+            "Google Chrome",
+            "Driver de impresora"
+        ],
+        "correctAnswer": "Google Chrome"
+    },
+    {
+        "question": "¿Cuál de los siguientes describe mejor el software de propósito específico?",
+        "options": [
+            "Programas usados por la mayoría de usuarios para tareas generales",
+            "Aplicaciones desarrolladas para tareas concretas o cubrir necesidades específicas",
+            "Cualquier software que requiere una licencia de pago",
+            "Programas que permiten crear otros programas"
+        ],
+        "correctAnswer": "Aplicaciones desarrolladas para tareas concretas o cubrir necesidades específicas"
+    },
+    {
+        "question": "¿Cuál es la principal función del software de base o sistema?",
+        "options": [
+            "Proporcionar una plataforma para que otros programas puedan ejecutarse",
+            "Realizar tareas específicas para usuarios finales",
+            "Desarrollar nuevos programas",
+            "Proteger el sistema operativo contra virus"
+        ],
+        "correctAnswer": "Proporcionar una plataforma para que otros programas puedan ejecutarse"
+    },
+    {
+        "question": "¿Cuál de las siguientes afirmaciones describe correctamente el software propietario?",
+        "options": [
+            "Es de uso libre y su código fuente es accesible",
+            "Requiere obtener una licencia de pago para su uso y tiene restricciones",
+            "Siempre es gratuito y no tiene restricciones de uso",
+            "Solo se usa en sistemas operativos basados en Linux"
+        ],
+        "correctAnswer": "Requiere obtener una licencia de pago para su uso y tiene restricciones"
+    },
+    {
+        "question": "¿Qué licencia es comúnmente usada para distribuir software libre?",
+        "options": [
+            "Licencia BSD",
+            "Licencia GPL",
+            "Licencia MIT",
+            "Licencia Apache"
+        ],
+        "correctAnswer": "Licencia GPL"
+    },
+    {
+        "question": "¿Qué significa que el software sea de código abierto?",
+        "options": [
+            "Que su código fuente es secreto",
+            "Que el software es de pago",
+            "Que el código fuente está disponible para inspección y modificación",
+            "Que no tiene restricciones de uso"
+        ],
+        "correctAnswer": "Que el código fuente está disponible para inspección y modificación"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un ejemplo de software propietario?",
+        "options": [
+            "Linux",
+            "Windows",
+            "LibreOffice",
+            "MySQL (versión GPL)"
+        ],
+        "correctAnswer": "Windows"
+    },
+    {
+        "question": "En el software libre, el usuario tiene acceso a:",
+        "options": [
+            "El código fuente para inspeccionarlo y modificarlo",
+            "Solo la versión ejecutable del programa",
+            "Funciones limitadas a menos que pague",
+            "El software completo, pero sin posibilidad de modificarlo"
+        ],
+        "correctAnswer": "El código fuente para inspeccionarlo y modificarlo"
+    },
+    {
+        "question": "¿Qué diferencia clave existe entre software libre y software propietario?",
+        "options": [
+            "El software libre es siempre gratuito y el propietario no",
+            "El software libre permite el acceso y modificación del código fuente, mientras que el propietario no",
+            "El software propietario no necesita licencias y el libre sí",
+            "No hay diferencia; ambos son términos intercambiables"
+        ],
+        "correctAnswer": "El software libre permite el acceso y modificación del código fuente, mientras que el propietario no"
+    },
+    {
+        "question": "¿Cuál de estos sistemas operativos es un ejemplo típico de software libre?",
+        "options": [
+            "macOS",
+            "Linux",
+            "Windows",
+            "Oracle"
+        ],
+        "correctAnswer": "Linux"
+    },
+    {
+        "question": "¿Qué tipo de software incluye aplicaciones como navegadores web y programas de ofimática?",
+        "options": [
+            "Software de sistema",
+            "Software de aplicación",
+            "Software de programación",
+            "Software libre"
+        ],
+        "correctAnswer": "Software de aplicación"
+    },
+    {
+        "question": "¿Cuál es una ventaja del software libre frente al software propietario?",
+        "options": [
+            "Tiene mayor compatibilidad con sistemas operativos de pago",
+            "Permite modificar y personalizar el software según las necesidades del usuario",
+            "Ofrece mejor soporte técnico",
+            "Siempre es de mejor calidad que el software propietario"
+        ],
+        "correctAnswer": "Permite modificar y personalizar el software según las necesidades del usuario"
+    },
+    {
+        "question": "¿Qué tipo de software permite interactuar directamente con el hardware del sistema?",
+        "options": [
+            "Software de aplicación",
+            "Software de base",
+            "Software de programación",
+            "Software propietario"
+        ],
+        "correctAnswer": "Software de base"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un ejemplo de software de programación?",
+        "options": [
+            "Windows",
+            "Microsoft Excel",
+            "Eclipse",
+            "Photoshop"
+        ],
+        "correctAnswer": "Eclipse"
+    },
+    {
+        "question": "¿Qué término se utiliza para describir el software que requiere una licencia de pago y tiene restricciones de uso?",
+        "options": [
+            "Software libre",
+            "Código abierto",
+            "Software propietario",
+            "Software de sistema"
+        ],
+        "correctAnswer": "Software propietario"
+    }
+]
